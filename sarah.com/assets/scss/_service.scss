@@ -1,0 +1,117 @@
+
+/*---=======================
+   05. Start Service  css 
+===========================---*/
+
+.service-area-v1{
+    position: relative;
+    overflow: hidden;
+    & .service-right-bg{
+        position: absolute;
+        top: 130px;
+        right: 140px;
+        width: 40%;
+        height: 100%;
+        @media #{$lg}{
+            right: 0;
+        }
+        @media #{$xm}{
+            display: none;
+        }
+    }
+    & .service-content-box{
+        padding-right: 80px;
+        @media #{$lg}{
+            padding-right: 0px;
+        }
+        @media #{$xm}{
+            padding-right: 0px;
+        }
+        & .service-item{
+            background-color: #18214c;
+            padding: 40px 30px;
+            @include transition(.3s);
+            &:hover{
+                background-color: rgba(27, 14, 96, 0.5);
+                & .icon{
+                    background-color: $white;
+                    & i{
+                        color: $color-two;
+                    }
+                }
+            }
+            & .icon{
+                width: 100px;
+                height: 100px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: transparent;
+                border: 1px solid $white;
+                border-radius: 50%;
+                margin: auto;
+                margin-bottom: 30px;
+                @include transition(.3s);
+                & i{
+                    color: $white;
+                    font-size: 35px;
+                }
+            }
+            & .content{
+                & h4{
+                    color: $white;
+                    font-size: 18px;
+                    margin-bottom: 10px;
+                }
+                & p{
+                    color: #b3b5c0;
+                    margin-bottom: 15px;
+                }
+                & .btn-link{
+                    color: $white;
+                }
+            }
+        }
+    }
+}
+
+.service-details-section{
+    .service-row{
+        @media #{$xs}{
+            flex-wrap: wrap-reverse!important;
+        }
+    }
+    & .service-content{
+        & p{
+            margin-bottom: 20px;
+        }
+        & .content-box{
+            & .block-img{
+                width: 100%;
+                height: 300px;
+            }
+            & .content{
+                & h4{
+                    margin-bottom: 20px;
+                }
+                & ul.list{
+                    & li{
+                        line-height: 35px;
+                        &:before{
+                            display: inline-block;
+                            content: '\f00c';
+                            font-family: 'Font Awesome 5 Pro';
+                            color: $theme-color;
+                            margin-right: 15px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*---=======================
+   End Service  css 
+===========================---*/
