@@ -33,21 +33,11 @@
             </div>
         </div><!--====== End Preloader ======-->
         <!--====== Search From ======-->
-		<div class="modal fade" id="search-modal" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <form>
-                        <div class="form_group">
-                        	<input type="text" class="form_control" placeholder="Search here...">
-                        	<button class="search_btn"><i class="fa fa-search"></i></button>
-                        </div>
-                    </form>
-                </div>
-            </div>
+		
         </div><!--====== Search From ======-->
         <?php require_once('header.php');?>
         <!--====== Start breadcrumbs Section ======-->
-        <section class="breadcrumbs-area bg_cover pt-100 pb-100" style="background-image: url(assets/images/bg/breadcrumbs-bg.png);">
+        <!-- <section class="breadcrumbs-area bg_cover pt-100 pb-100" style="background-image: url(assets/images/bg/breadcrumbs-bg.png);">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
@@ -65,10 +55,10 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--====== End breadcrumbs Section ======-->
         <!--====== Start Contact-info Section ======-->
-        <section class="contact-info-section pt-120 pb-75">
+        <section class="contact-info-section pt-200 pb-75">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5">
@@ -120,17 +110,10 @@
        
         </section><!--====== End contact-form-section ======-->
         <!--====== Start Footer Area ======-->
-        <footer class="footer-area-v1 dark-bg pt-100 ">
-            <div class="container">
-                <div class="footer-logo text-center mb-70">
-                    <a href="index.html" class="brand-logo"><img src="assets/images/logo-2.png" alt=""></a>
-                </div>
-               
-                <div class="copyright-text text-center">
-                    <p>Copyright &copy; 2022 <span>Sahara Planner Company</span>. All Rights Reserved. | &nbsp; Developed By <span><a href="onehand.design">One Hand Design</a></span></p>
-                </div>
-            </div>
-        </footer>
+        <?php require_once('footer.php');?>
+       <style>
+<?php include 'assets/css/main.css'; ?>
+</style>
         <!--====== End Footer Area ======-->
         <!--====== back-to-top ======-->
         <a href="#" class="back-to-top" ><i class="fas fa-angle-up"></i></a>

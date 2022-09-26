@@ -48,6 +48,30 @@
                                 </div>
                             </div>
                             <div class="col-lg-5">
+                            <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/images/hero/header-2.jpg" class="d-block w-100" alt="">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/images/hero/header-1.jpg" class="d-block w-100" alt="">
+    </div>
+   
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div> -->
                                 <div class="hero-img">
                                     <img class="mySlides w3-animate-fading" src="assets/images/hero/header-2.jpg" alt="">
                                     <img class="mySlides w3-animate-fading" src="assets/images/hero/header-2.jpg" alt="">
@@ -68,7 +92,7 @@
             <div class="features-bg bg_cover ml-auto" style="background-image: url(assets/images/bg/features-bg-1.jpg);"></div>
             <div class="container">
                 <div class="row">
-                    <div class="offset-lg-6 col-lg-6">
+                    <div class="offset-lg-6 col-lg-8">
                         <div class="features-content-box">
                             <div class="section-title section-title-left">
                                 <span class="span">Who We Are</span>
@@ -199,7 +223,7 @@
                 <div class="">
                     <div class="container">
                         <div class="row">
-                            <div class=" p-6 col-lg-6">
+                            <div class="  col-lg-6">
                                 <div class="">
                                 <h2>Event Management & Promotions Company</h2>
                                
@@ -207,7 +231,7 @@
                                     <p>We are Bahrain based Designing company.We make unique & hand-crafted website design to help position your brand & build online presence to its full potential. if you are thinking to make professional website then contact us for get best web design experiences.</p>
                                 </div>
                             </div>
-                            <div class=" col-lg-4">
+                            <div class=" col-lg-6">
                                 <div class="">
                                 <iframe width="853" height="480" src="https://www.youtube.com/embed/3JEas1Rd-dg" frameborder="0" allowfullscreen ng-show="showvideo"></iframe>
                                 </iframe>
@@ -251,8 +275,12 @@
         </section>
         <!--====== End Sponsor Section ======-->
         <!--====== Start Footer Area ======-->
-        <footer class="footer-area-v1 dark-bg pt-100 ">
-            <div class="container">
+       
+        <?php require_once('footer.php');?>
+       <style>
+<?php include 'assets/css/main.css'; ?>
+</style>
+            <!-- <div class="container">
                 <div class="footer-logo text-center mb-70">
                     <a href="index.html" class="brand-logo"><img src="assets/images/logo-2.png" alt=""></a>
                 </div>
@@ -260,8 +288,8 @@
                 <div class="copyright-text text-center">
                     <p>Copyright &copy; 2022 <span>Sahara Planner Company</span>. All Rights Reserved. | &nbsp; Developed By <span><a href="onehand.design">One Hand Design</a></span></p>
                 </div>
-            </div>
-        </footer>
+            </div> -->
+    
         <!--====== End Footer Area ======-->
         <!--====== back-to-top ======-->
         <a href="#" class="back-to-top" ><i class="fas fa-angle-up"></i></a>
