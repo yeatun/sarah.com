@@ -523,7 +523,8 @@ strengthen your business success.</p> -->
               <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                 <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
               </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Expert Team Member </spam> </h5>
+              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Expert Team Member </spam>
+              </h5>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -531,8 +532,9 @@ strengthen your business success.</p> -->
               <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                 <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
               </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Project management transitions</spam> </h5>
-              
+              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Project management transitions</spam>
+              </h5>
+
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -540,8 +542,9 @@ strengthen your business success.</p> -->
               <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                 <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
               </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Dedicated delivery teams wrorks</spam> </h5>
-             
+              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Dedicated delivery teams wrorks</spam>
+              </h5>
+
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -549,8 +552,9 @@ strengthen your business success.</p> -->
               <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
                 <h2 class="display-2 text-secondary m-0"><img style="height: 73px;" src="assets/images/service/parties.png" alt=""></h2>
               </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Hardworking Professional Employee</spam> </h5>
-              
+              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Hardworking Professional Employee</spam>
+              </h5>
+
             </div>
           </div>
         </div>
