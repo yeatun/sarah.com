@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-6">
-          <div class="footer-logo  mb-20">
+          <div class="footer-logo  mb-30">
                     <a href="index.html" class="brand-logo"><img src="assets/images/logo-2.png" alt=""></a>
                 </div>
             <p class="text-justify">Sahara Planner Co. W.L.L. is an event management & event manpower supplier company in
@@ -72,8 +72,8 @@ sional services to our client.</p>
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-         <a href="#">Scanfcode</a>.
+            <p class="copyright-text">Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved by 
+         <a href="#" class="text-white">H.Tech</a>.
             </p>
           </div>
 

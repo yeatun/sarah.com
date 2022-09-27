@@ -43,12 +43,12 @@
                                     <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
                                 </div>
                                 <nav class="main-menu ">
-                                    <ul  class="nav  justify-content-end menu3 ">
-                                        <li class="menu-item nav-item"><a href="#">Home</a></li>
-                                        <li class="menu-item nav-item"><a href="about.php">About</a></li>
-                                        <li class="menu-item nav-item"><a href="services.php">Service</a></li>
-                                        <li class="menu-item nav-item"><a href="team.html">Our Team</a></li>
-                                        <li class="menu-item nav-item"><a href="contact.php">Contact</a></li>
+                                    <ul id="navLink" class="nav  justify-content-end  ">
+                                        <li class="menu-item nav-item"><a class="nav-link active" aria-current="page" href="index.php">Home</a></li>
+                                        <li class="menu-item nav-item"><a class="nav-link" href="about.php">About</a></li>
+                                        <li class="menu-item nav-item"><a class="nav-link" href="services.php">Service</a></li>
+                                        <li class="menu-item nav-item"><a class="nav-link" href="team.html">Our Team</a></li>
+                                        <li class="menu-item nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -100,5 +100,17 @@
                 </div>
             </div>
         </header><!--====== End Header ======-->
-        </body>
+        <script>
+// Add active class to the current button (highlight it)
+var header = document.getElementById("navLink");
+var btns = header.getElementsByClassName("nav-link");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+</script>
+    </body>
         </html>

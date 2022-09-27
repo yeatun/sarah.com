@@ -14,6 +14,8 @@
         <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
         <!--====== Bootstrap css ======-->
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+ 
         <!--====== Iconfont css ======-->
         <link rel="stylesheet" href="assets/fonts/fontawesome/css/all.min.css">
         <!--====== Magnific Popup css ======-->
@@ -42,8 +44,9 @@
                             <div class="col-lg-7">
                                 <div class="hero-content">
                                     <span class="span">Event Management</span>
-                                    <h1>Event Management
-                                        Agency</h1>
+                                    <h2>Event Management <br>
+                                        Agency</h2>
+                                        <br>
                                     <a href="#" class="main-btn">Learn More</a>
                                 </div>
                             </div>
@@ -54,23 +57,24 @@
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
+  <div class="carousel-inner ">
+    <div class="carousel-item active hero-img">
       <img src="assets/images/hero/header-2.jpg" class="d-block w-100" alt="">
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item hero-img">
       <img src="assets/images/hero/header-1.jpg" class="d-block w-100" alt="">
-    </div>
+</div>
    
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  
 </div> -->
                                 <div class="hero-img">
                                     <img class="mySlides w3-animate-fading" src="assets/images/hero/header-2.jpg" alt="">
@@ -113,7 +117,8 @@
                     </div>
                 </div>
             </div>
-        </section><!--====== End Features Section ======-->
+        </section>
+        <!--====== End Features Section ======-->
         <!--====== Start Portfolio Section ======-->
         <section class="portfolio-area-v1 pt-120 pb-130">
             <div class="container">
@@ -218,13 +223,13 @@
                 </div>
             </div>
         </section> -->
-        <section class="intro-video-v1 yt_cover">
+        <section class=" yt_cover">
             <div class="">
                 <div class="">
                     <div class="container">
-                        <div class="row">
+                        <div class="row ytsize ">
                             <div class="  col-lg-6">
-                                <div class="">
+                                <div class="ytText">
                                 <h2>Event Management & Promotions Company</h2>
                                
                                 <br>
