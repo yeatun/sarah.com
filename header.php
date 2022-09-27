@@ -39,7 +39,7 @@
                         </div>
                     </div>
                     <div class="col-6 col-lg-10 ">
-                        <div class="nav-menu ">
+                        <div class="nav-menu navbar-dark">
                             <!-- Navbar Close Icon -->
                             <div class="navbar-close ">
                                 <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>

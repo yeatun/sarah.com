@@ -619,6 +619,14 @@ header {
     bottom: 40px;
     left: 15px;
 }
+
+
+#navLink li a.active>.nav-link,
+#navLink li a .nav-link.active,
+#navLink li a .nav-link.show,
+#navLink li a .nav-link .show>.nav-link {
+     color: #d00b2b;
+}
 /* .header-navigation .main-menu ul li:after {
   content: "";
   position: absolute;
