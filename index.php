@@ -155,6 +155,9 @@
     </section>
     <!--====== End Features Section ======-->
     <!--====== Start Portfolio Section ======-->
+
+
+
     <section class="portfolio-area-v1 pt-120 pb-130">
         <div class="container">
             <div class="row justify-content-center">
@@ -166,82 +169,78 @@
                     </div>
                 </div>
             </div>
-            <div class="row products-grid">
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-1.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Magic Planet, BCC</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content  ">
+                                    <h3 class="title portfolio-text"><a href="#">Magic Planet, BCC</a></h3>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+                    <div class="col-sm">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-2.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Magic Planet, Avenues</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content">
+                                    <h3 class="title portfolio-text"><a href="#">Magic Planet, Avenues</a></h3>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+                    <div class="col-sm">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-3.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Vox Cinema, BCC & Avenues</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content ">
+                                    <h4 class="title portfolio-text"><a href="#">Vox Cinema, BCC & Avenues</a></h4>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+
+                    <div class="col-sm pt-4">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-4.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Four Season</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content">
+                                    <h3 class="title portfolio-text"><a href="#">Four Season</a></h3>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+                    <div class="col-sm pt-4">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-5.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Reef Boutique Hotel</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content">
+                                    <h3 class="title portfolio-text"><a href="#">Reef Boutique Hotel</a></h3>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="portfolio-item">
-                        <div class="portfolio-img">
+                    <div class="col-sm pt-4">
+                        <div class="card" style="width: 20rem;">
                             <img src="assets/images/portfolio/project-6.jpg" alt="">
-                        </div>
-                        <div class="portfolio-content">
-                            <h3 class="title"><a href="#">Donwntown Rotana</a></h3>
-                            <p class="cat"><a href="#">Promotional Staff Supply</a></p>
+                            <div class="card-body portfolio-body">
+                                <div class="portfolio-content">
+                                    <h3 class="title portfolio-text"><a href="#">Donwntown Rotana
+                                        </a></h3>
+                                    <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="button-box text-center mt-80">
-                        <a href="#" class="main-btn">View More Project</a>
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
     <!--====== End Portfolio Section ======-->
 
