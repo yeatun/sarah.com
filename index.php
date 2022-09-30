@@ -42,7 +42,7 @@
             <div class="single-slider">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-7">
+                        <div class="col-lg-5">
                             <div class="hero-content">
                                 <span class="span">Event Management</span>
                                 <h2>Event Management <br>
@@ -51,7 +51,7 @@
                                 <a href="#" class="main-btn">Learn More</a>
                             </div>
                         </div>
-                        <div class="col-lg-5">
+                        <div class="col-lg-7">
                             <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -176,7 +176,7 @@
                             <img src="assets/images/portfolio/project-1.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content  ">
-                                    <h3 class="title portfolio-text"><a href="#">Magic Planet, BCC</a></h3>
+                                    <h4 class="title portfolio-text"><a href="#">Magic Planet, BCC</a></h4>
                                     <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
                                 </div>
                             </div>
@@ -187,7 +187,7 @@
                             <img src="assets/images/portfolio/project-2.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h3 class="title portfolio-text"><a href="#">Magic Planet, Avenues</a></h3>
+                                    <h4 class="title portfolio-text"><a href="#">Magic Planet, Avenues</a></h4>
                                     <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
                                 </div>
                             </div>
@@ -210,7 +210,7 @@
                             <img src="assets/images/portfolio/project-4.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h3 class="title portfolio-text"><a href="#">Four Season</a></h3>
+                                    <h4 class="title portfolio-text"><a href="#">Four Season</a></h4>
                                     <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
                                 </div>
                             </div>
@@ -221,7 +221,7 @@
                             <img src="assets/images/portfolio/project-5.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h3 class="title portfolio-text"><a href="#">Reef Boutique Hotel</a></h3>
+                                    <h4 class="title portfolio-text"><a href="#">Reef Boutique Hotel</a></h4>
                                     <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
                                 </div>
                             </div>
@@ -232,8 +232,8 @@
                             <img src="assets/images/portfolio/project-6.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h3 class="title portfolio-text"><a href="#">Donwntown Rotana
-                                        </a></h3>
+                                    <h4 class="title portfolio-text"><a href="#">Donwntown Rotana
+                                        </a></h4>
                                     <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p>
                                 </div>
                             </div>
@@ -246,17 +246,7 @@
 
 
     <!--====== Start Video Section ======-->
-    <!-- <section class="intro-video-v1 bg_cover" style="background-image: url(assets/images/bg/video-bg-1.jpg);">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="play-content text-center">
-                            <a href="https://www.youtube.com/watch?v=3JEas1Rd-dg" class="video-popup">Play</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
+
     <section class=" yt_cover">
         <div class="">
             <div class="">

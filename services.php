@@ -505,62 +505,74 @@ strengthen your business success.</p> -->
 
   </section>
   <section>
-    <div class="container-fluid pt-5 pt-130 pb-130">
-      <div class="container">
-        <h6 class="text-secondary text-uppercase text-center font-weight-medium mb-3"><span class="red">Working Process</span></h6>
-        <h1 class="display-4 text-center mb-5">How We Work</h1>
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
-              <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
-                <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
-              </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Quicker delivery at lower cots THE PROCESS</span></h5>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
-              <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
-                <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
-              </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Expert Team Member </spam>
-              </h5>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
-              <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
-                <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
-              </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Project management transitions</spam>
-              </h5>
 
+  </section>
+  <section class="sponsor-area-v1 pt-130 pb-130">
+  <h2 class="card-title text-center "><span class="red">
+                     WHY</span>US</h2>
+                     <br>
+                     <br>
+    <div class="container cards-1">
+      <div class="team-slider-one">
+        <div class="single-sponsor">
+          <div class="card">
+            <div class="card-image">
+              <i class="fas fa-calendar"></i>
+              
             </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
-              <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
-                <h2 class="display-2 text-secondary m-0"><img style="height: 70px;" src="assets/images/service/parties.png" alt=""></h2>
-              </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Dedicated delivery teams wrorks</spam>
-              </h5>
-
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="d-flex flex-column align-items-center justify-content-center text-center mb-5">
-              <div class="d-inline-flex align-items-center justify-content-center bg-white border border-light shadow rounded-circle mb-4" style="width: 150px; height: 150px; border-width: 15px !important;">
-                <h2 class="display-2 text-secondary m-0"><img style="height: 73px;" src="assets/images/service/parties.png" alt=""></h2>
-              </div>
-              <h5 class="font-weight-bold m-0 mt-2"><span class="red">Hardworking Professional Employee</spam>
-              </h5>
-
+            <div class="card-body">
+              <h5 class="card-title">Quicker delivery at lower cots THE PROCESS</h5>
             </div>
           </div>
         </div>
+        <div class="single-sponsor">
+          <div class="card">
+            <div class="card-image green">
+              <i class="fas fa-users"></i>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Expert Team Member</h5>
+            </div>
+          </div>
+        </div>
+        <div class="single-sponsor">
+          <div class="card">
+            <div class="card-image red">
+              <i class="fas fa-certificate"></i>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Project management transitions</h5>
+            </div>
+          </div>
+        </div>
+        <div class="single-sponsor">
+          <div class="card">
+            <div class="card-image yellow">
+              <i class="fas fa-comments"></i>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Dedicated delivery </h5>
+            </div>
+          </div>
+        </div>
+        <div class="single-sponsor">
+          <div class="card">
+          <div class="card-image blue">
+              <i class="fas fa-users"></i>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">Hardworking Professional Employee</h5>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="single-sponsor">
+                    <img src="assets/images/sponsor/sponsor-2.png" alt="">
+                </div> -->
       </div>
     </div>
   </section>
+  
+  <!-- end of small features -->
 
   <?php require_once('footer.php'); ?>
   <style>

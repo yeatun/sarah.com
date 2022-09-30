@@ -182,6 +182,7 @@
                     slidesToShow: 3,
                 }
             },
+            
             {
                 breakpoint: 480,
                 settings: {
