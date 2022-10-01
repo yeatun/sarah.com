@@ -289,7 +289,6 @@
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
-</body>
+    <script src="assets/js/index.js"></script>
 
 </html>

@@ -148,14 +148,14 @@ body {
 }
 .yt_cover{
  
-  height: 700px;
+  height: 520px;
   background-color: #f7f7f7;
 }
 .ytsize{
-  padding-top: 120px;
+  padding-top: 20px;
 }
 .ytText{
-  padding-top: 80px;
+  padding-top: 120px;
 }
 .slick-slide {
   outline: 0;
@@ -1005,10 +1005,11 @@ header {
   font-size: 50px;
 }
 .hero-area-v1 .hero-slider-one .slick-arrow.prev {
-  left: 70px;
+  left: 50px;
+  
 }
 .hero-area-v1 .hero-slider-one .slick-arrow.next {
-  right: 70px;
+  right: 50px;
 }
 .hero-area-v1 .hero-slider-one .slick-arrow:hover, .hero-area-v1 .hero-slider-one .slick-arrow:focus {
   border-color: #d00b2b;
@@ -1049,7 +1050,7 @@ header {
   position: relative;
   font-size: 18px;
   font-weight: 700;
-  padding-top: 30%;
+  padding-top: 20%;
 }
 .hero-area-v1 .hero-content span.span:before {
   display: inline-block;

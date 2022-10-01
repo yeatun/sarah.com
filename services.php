@@ -600,7 +600,7 @@ strengthen your business success.</p> -->
   <!--====== waypoints js ======-->
   <script src="assets/js/jquery.waypoints.min.js"></script>
   <!--====== Main js ======-->
-  <script src="assets/js/main.js"></script>
+  <script src="assets/js/index.js"></script>
 </body>
 
 </html>

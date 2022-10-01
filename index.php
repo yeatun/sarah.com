@@ -38,92 +38,52 @@
     </style>
     <!--====== Start Hero Section ======-->
     <section class="hero-area-v1">
-        <div class="hero-slider-one">
-            <div class="single-slider">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="hero-content">
-                                <span class="span">Event Management</span>
-                                <h2>Event Management <br>
-                                    Agency</h2>
-                                <br>
-                                <a href="#" class="main-btn">Learn More</a>
+            <div class="hero-slider-one">
+                <div class="single-slider">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="hero-content">
+                                    <span class="span">Event Management</span>
+                                    <h2 >Event
+                                        Management
+                                        Agency</h2>
+                                        <br>
+                                    <a href="#" class="main-btn">Learn More</a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="hero-img">
+                                    <img src="assets/images/hero/header-1.jpg" alt="">
+                                    
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-7">
-                            <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner ">
-    <div class="carousel-item active hero-img">
-      <img src="assets/images/hero/header-2.jpg" class="d-block w-100" alt="">
-    </div>
-    <div class="carousel-item hero-img">
-      <img src="assets/images/hero/header-1.jpg" class="d-block w-100" alt="">
-</div>
-   
-  </div>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  
-</div> -->
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <div class="hero-img">
-                                            <img class="imgslide" src="assets/images/hero/header-2.jpg" alt="">
-
-
-
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <div class="hero-img">
-                                            <img class="imgslide" src="assets/images/hero/header-1.jpg" alt="">
-
-
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <div class="hero-img">
-                                            <img class="imgslide" src="assets/images/hero/header-2.jpg" alt="">
-
-
-                                        </div>
-                                    </div>
+                    </div>
+                </div>
+                <div class="single-slider">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="hero-content">
+                                    <span class="span">Promotional Agency</span>
+                                    <h2>Promotional
+                                        Services
+                                        Provider</h2>
+                                        <br>
+                                    <a href="#" class="main-btn">Learn More</a>
                                 </div>
-                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Previous</span>
-                                </button>
-                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                    <span class="visually-hidden">Next</span>
-                                </button>
                             </div>
-                            <!-- <div class="hero-img">
-                                <img class="mySlides w3-animate-fading" src="assets/images/hero/header-2.jpg" alt="">
-                                <img class="mySlides w3-animate-fading" src="assets/images/hero/header-2.jpg" alt="">
-                                <img class="mySlides w3-animate-fading" src="assets/images/hero/header-1.jpg" alt="">
-
-                            </div> -->
+                            <div class="col-lg-6">
+                                <div class="hero-img">
+                                    <img src="assets/images/hero/header-2.jpg" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
-        </div>
-    </section>
+        </section>
     <!--====== End Hero Section ======-->
 
     <!--====== Start Features Section ======-->
@@ -359,7 +319,7 @@
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/index.js"></script>
 </body>
 
 </html>
