@@ -51,6 +51,7 @@
                                     <li><a class="nav-link  <?= ($activePage == 'about') ? 'active' : ''; ?>" href="about.php">About</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'services') ? 'active' : ''; ?>" href="services.php">Service</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'ourTeam') ? 'active' : ''; ?>" href="ourTeam.php">Team</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'clients') ? 'active' : ''; ?>" href="clients.php">Clients</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'work') ? 'active' : ''; ?>" href="work.php">Work</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'contact') ? 'active' : ''; ?>" href="contact.php">Contact</a></li>
                                 </ul>

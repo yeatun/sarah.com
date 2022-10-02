@@ -79,7 +79,7 @@
 
     <!--====== End Features Section ======-->
     <!--====== Start Features Section ======-->
-    <section class="features-area-3 light-bg1 pt-120 pb-130">
+    <!-- <section class="features-area-3 light-bg1 pt-120 pb-130">
     <section id="gtco-team" class="bg-team section-padding">
     <div class="container">
         <div class="section-content">
@@ -252,7 +252,122 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<div class="container-fluid py-5 light" id="team">
+        <div class="container py-5 " >
+            <div class="section-title position-relative text-center">
+                <h6 class="text-uppercase text-danger mb-3" style="letter-spacing: 3px;">Team</h6>
+                <h1 class="font-secondary display-4">Meet The <span class="red">Team</span></h1>
+                <br>
+                <br>
+            </div>
+            <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0 ">
+                <div class="col-lg-6 p-0 shadow">
+                    <div class="row m-0">
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="text-white mb-2">ZAHIRUL ISLAM (TANBIR)</h5>
+                                <p class="text-white font-italic mb-2">Managing Director</p>
+                                <!-- <p class="text-white font-italic mb-2">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem</p> -->
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-1.jpg" style="object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-lg-end m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
+                <div class="col-lg-6 p-0 shadow">
+                    <div class="row m-0">
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-2.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="mb-2 text-white">MOHAMMAD JUMMAN</h5>
+                                <p class="text-white font-italic mb-2">Operations Manager</p>
+                               
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
+                <div class="col-lg-6 p-0 shadow" >
+                    <div class="row m-0 ">
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="text-white bmb-2">RICA BALLANO</h5>
+                                <p class="text-white font-italic mb-2">Office Admin</p>
+                              
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-5 h-5" src="assets/images/team/team-3.jpg" style="object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-lg-end m-0">
+                <div class="col-lg-6 p-0 shadow">
+                    <div class="row m-0">
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-4.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="mb-2 text-white">VINIA ROMERO ( AISHA )</h5>
+                                <p class="text-white font-italic mb-2">Sales & Marketing Manager</p>
+                              
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
+                <div class="col-lg-6 p-0 shadow" >
+                    <div class="row m-0 ">
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="text-white bmb-2">MOHAMMAD KABIR (MUSA)</h5>
+                                <p class="text-white font-italic mb-2">Field operations Supervisor</p>
+                              
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-5 h-5" src="assets/images/team/team-5.jpg" style="object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 <?php require_once('footer.php'); ?>
     <style>
         <?php include 'assets/css/main.css'; ?>

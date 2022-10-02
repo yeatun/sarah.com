@@ -144,7 +144,7 @@ strengthen your business success.</p> -->
             </div>
             <div class="name">
               <h5>
-                Customer Services <br> Staff Supply
+                Customer Services  Staff Supply
               </h5>
             </div>
           </div>
@@ -166,7 +166,7 @@ strengthen your business success.</p> -->
             </div>
             <div class="name">
               <h5>
-                Cash Counter Staff Supply
+                Cash Counter Staff <br> Supply
               </h5>
             </div>
           </div>
@@ -508,17 +508,17 @@ strengthen your business success.</p> -->
 
   </section>
   <section class="sponsor-area-v1 pt-130 pb-130">
-  <h2 class="card-title text-center "><span class="red">
-                     WHY</span>US</h2>
-                     <br>
-                     <br>
+    <h2 class="card-title text-center "><span class="red">
+        WHY</span>US</h2>
+    <br>
+    <br>
     <div class="container cards-1">
       <div class="team-slider-one">
         <div class="single-sponsor">
           <div class="card">
             <div class="card-image">
               <i class="fas fa-calendar"></i>
-              
+
             </div>
             <div class="card-body">
               <h5 class="card-title">Quicker delivery at lower cots THE PROCESS</h5>
@@ -557,7 +557,7 @@ strengthen your business success.</p> -->
         </div>
         <div class="single-sponsor">
           <div class="card">
-          <div class="card-image blue">
+            <div class="card-image blue">
               <i class="fas fa-users"></i>
             </div>
             <div class="card-body">
@@ -571,7 +571,7 @@ strengthen your business success.</p> -->
       </div>
     </div>
   </section>
-  
+
   <!-- end of small features -->
 
   <?php require_once('footer.php'); ?>
@@ -600,7 +600,7 @@ strengthen your business success.</p> -->
   <!--====== waypoints js ======-->
   <script src="assets/js/jquery.waypoints.min.js"></script>
   <!--====== Main js ======-->
-  <script src="assets/js/index.js"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 
 </html>

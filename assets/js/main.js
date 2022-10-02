@@ -106,8 +106,8 @@
         fade: true,
         slidesToShow: 1,
         slidesToScroll: 1,
-        prevArrow: '<div class="prev"><i class="fal fa-long-arrow-left"></i></div>',
-		nextArrow: '<div class="next"><i class="fal fa-long-arrow-right"></i></div>',
+        prevArrow: '<div class="prev"><i class="fa fa-arrow-left"></i></div>',
+		nextArrow: '<div class="next"><i class="fa fa-arrow-right"></i></div>',
         responsive: [
             {
                 breakpoint: 1400,
@@ -227,6 +227,7 @@
             }
         ]
     });
+    
     $('.testimonial-slider-one').slick({
         dots: false,
         arrows: false,

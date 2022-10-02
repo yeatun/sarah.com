@@ -121,6 +121,7 @@ ul, ol {
 p {
   color: #616161;
   margin: 0px;
+  font-weight: 700
 }
 
 input, textarea {
@@ -242,6 +243,11 @@ textarea.form_control {
 .light-bg {
   background: #f7f7f7;
   height: 800px;
+  
+}
+.light {
+  background: #f7f7f7;
+  /* height: 800px; */
   
 }
 .light-bg1 {
@@ -535,7 +541,7 @@ header {
 }
 .header-navigation .main-menu ul li > a {
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   color: #000000;
   font-weight: 700;
   text-transform: capitalize;
@@ -612,7 +618,7 @@ header {
 #navLink li a.active::after,
 #navLink li a:hover::after{
     content: "";
-    width: 60%;
+    width: 68%;
     height: 3px;
     background: #d00b2b;
     position:absolute;
@@ -994,14 +1000,14 @@ header {
   transform: translateY(-50%);
   cursor: pointer;
   z-index: 1;
-  border: 2px solid #dfdfdf;
+  /* border: 2px solid #dfdfdf; */
   color: #616161;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  /* border-radius: 50%; */
   font-size: 50px;
 }
 .hero-area-v1 .hero-slider-one .slick-arrow.prev {
@@ -1330,13 +1336,16 @@ header {
   text-align: left;
   margin-top: 40%;
   padding-bottom: 0;
-  margin-right: -20px;
+  margin-left: 100px;
+  /* margin-right: -20px; */
+  padding-right: 130px;
 }
 .about .titlepage1 {
   text-align: left;
-  margin-top: 40%;
+  margin-top: 27%;
   padding-bottom: 0;
-  margin-right: -20px;
+  padding-left: 150px;
+  /* margin-right: -1px; */
 }
 
 .about .titlepage h2 {
@@ -1344,16 +1353,30 @@ header {
 }
 
 .about .titlepage p {
-  font-weight: 300;
+  /* font-weight: 700;
   color: #2e2d2d;
-  font-size: 17px;
+  font-size: 17px; */
+  line-height: 31px;
+  padding-bottom: 35px;
+}
+.about .titlepage1 p {
+  /* font-weight: 700;
+  color: #2e2d2d;
+  font-size: 17px; */
   line-height: 31px;
   padding-bottom: 35px;
 }
 
 .about_img {
   padding: 40px 30px 45px 30px;
+  padding-left: 100px;
 
+}
+.about_img1{
+    /* padding: 40px 30px 45px 30px; */
+    /* padding-right: 60px; */
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .about_img::before {
@@ -1366,12 +1389,28 @@ header {
   right: 0;
   border-radius: 5px;
 }
-
+.about_img1::before {
+  position: absolute;
+  content: "";
+  /* background: url(../images/bg/vg.png); */
+  top: 0;
+  height: 100%;
+  width: 452px;
+  right: 0;
+  border-radius: 5px;
+}
 .about_img figure {
   margin: 0;
 }
-
+.about_img1 figure {
+  margin: 0;
+}
 .about_img figure img {
+  width: 100%;
+  z-index: 1;
+  position: relative;
+}
+.about_img1 figure img {
   width: 100%;
   z-index: 1;
   position: relative;
@@ -1410,6 +1449,75 @@ width: 1100px;
   max-width: 768px;
   position: relative;
 }
+.gallery-carousel .owl-nav,
+.testimonial-carousel .owl-nav {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  top: -90px;
+  left: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.gallery-carousel .owl-nav .owl-prev,
+.gallery-carousel .owl-nav .owl-next,
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #009CFF;
+  background: #FFFFFF;
+  font-size: 30px;
+}
+
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  color: #FFFFFF;
+  background: #009CFF;
+}
+.gallery-carousel .owl-nav,
+.testimonial-carousel .owl-nav {
+  position: absolute;
+  width: 135px;
+  height: 60px;
+  top: -90px;
+  left: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+}
+
+.gallery-carousel .owl-nav .owl-prev,
+.gallery-carousel .owl-nav .owl-next,
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #009CFF;
+  background: #FFFFFF;
+  font-size: 30px;
+}
+
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  color: #FFFFFF;
+  background: #009CFF;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 
 .fa-quote {
   color: rgba(255, 255, 255, 0.3);
@@ -1863,8 +1971,8 @@ width: 1100px;
 }
 
 .item_section1 .item_container1 .box1 {
-  width: 230px;
-  height: 200px;
+  width: 300px;
+  height: 250px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1890,9 +1998,36 @@ width: 1100px;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
+.clients1 {
+  background-color: #d00b2b;
+  
+}
+.clients3 {
+  background-color: #d00b2b;
+}
+.clients5 {
+  background-color: #d00b2b;
+}
+.clients7 {
+  background-color: #d00b2b;
+}
+.clients9 {
+  background-color: #d00b2b;
+}
+.clients11 {
+  background-color: #d00b2b;
+}
+.clients13 {
+  background-color: #d00b2b;
+}
+.name{
+  
+  padding-top: 50px;
+}
+
 .item_section2 .item_container2 .box2 {
-  width: 250px;
-  height: 200px;
+  width: 210px;
+  height: 180px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1921,7 +2056,7 @@ width: 1100px;
 }
 
 .item_section1 .item_container1 .box1 .img-box1 img {
-  width: 120px;
+  width: 150px;
 }
 
 .item_section .item_container .box1 h6 {
@@ -1946,7 +2081,7 @@ width: 1100px;
   background-color: white;
 }
 .part2{
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 
@@ -2120,8 +2255,31 @@ width: 1100px;
   left: 0;
   width: 40px;
   height: 40px;
-  content: "";
+  content: "\00BB";
+ font-size: 30px;
   font-weight: 400;
+  color: red;
+  font-family: "Font Awesome 5 Pro";
+  /* border: 2px solid #dd4a4a; */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-list1 li {
+  position: relative;
+  padding-left: 55px;
+  margin-bottom: 15px;
+  padding-top: 5px;
+}
+.icon-list1:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  content: "\27A4";
+  font-weight: 800;
   font-family: "Font Awesome 5 Pro";
   border: 2px solid #e0e0e0;
   border-radius: 50%;
@@ -3022,17 +3180,21 @@ color: white;
 	margin: auto;
 }
 .person {
-	width: 100px;
-	height: 100px;
-	display: block;
-	margin: auto;
-	border-radius: 50%;
-	overflow: hidden;
-	border: 5px solid #f75023;
+	width: 200px;
+	height: 200px;
+	/* display: block; */
+	margin-left: 30px;
+  margin-right: 20px;
+	
+	/* overflow: hidden; */
+	/* border: 5px solid #f75023; */
 	margin-top: 50px;
 }
+
+
 .person img {
 	width: 100%;
+  padding-right: 100px;
 }
 .content h5 {
 	font-weight: 900;
@@ -3303,6 +3465,58 @@ color: white;
 .testimonial-area-v3 .testimonial-item .testimonial-content ul.rating li {
   color: #1b0e60;
 }
+.client_section .client_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 600px;
+  border: 1px solid #cccccc;
+  padding: 45px 35px 35px 25px;
+  background-color: #ffffff;
+  margin: 0 auto;
+}
+
+.client_section .client_container .detail-box p {
+  text-align: center;
+}
+
+.client_section .client_container .client_id {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 25px;
+}
+
+.client_section .client_container .client_id .img-box {
+  width: 75px;
+  margin-right: 10px;
+}
+
+.client_section .client_container .client_id .img-box img {
+  width: 100%;
+}
+
+.client_section .client_container .client_id .name h5 {
+  text-transform: uppercase;
+}
+
+.client_section .client_container .client_id .name h6 {
+  color: #ff4f5a;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+  height: 10px;
+}
 
 /*---=======================
    End Testimonial  css
@@ -3310,6 +3524,7 @@ color: white;
 /*---=======================
    09. Start Team  css
 ===========================---*/
+
 .bg-team{
   background-color: #f7f7f7;
 }
@@ -4091,6 +4306,12 @@ color: white;
 /*---=======================
    11. Start Contact  css
 ===========================---*/
+.contact-form .help-block ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
 .contact-info-section .info-content-box .info-item {
   margin-bottom: 30px;
 }

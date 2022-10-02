@@ -73,7 +73,7 @@ sional services to our client.</p>
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved by 
-         <a href="#" class="text-white">H.Tech</a>.
+         <a href="#" class="text-white">HTechSoft</a>.
             </p>
           </div>
 

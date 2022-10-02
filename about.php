@@ -112,19 +112,20 @@
     </section>
     <!--====== End Features Section ======-->
     <!--====== Start Skill Section ======-->
-    <div id="about" class="about">
-        <div class="container">
+    <div id="" class="about">
+        <div class="">
             <div class="row">
                 <div class="col-md-5">
                     <div class="titlepage">
-                        <h2>Our <span class="red">Vision</span></h2>
+                        <h2>Our <span class="red">Mission</span></h2>
                         <p>Delivering results-oriented campaign that enhance our clients awareness, improve their
                             sales and foster their growth.
 
-                            Creative is great but tangible results are even better.</p> <a href="#" class="main-btn">Learn More</a>
+                            Creative is great but tangible results are even better.</p>
+                        <a href="#" class="main-btn">Learn More</a>
                     </div>
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-6">
                     <div class="about_img">
                         <figure><img src="assets/images/about/vission.jpg" alt="#" /></figure>
                     </div>
@@ -159,12 +160,12 @@
         </section> -->
     <br>
 
-    <div id="about" class="about">
-        <div class="container">
+    <div id="" class="about">
+        <div class="">
             <div class="row">
-                <div class="col-md-7">
-                    <div class="about_img">
-                        <figure><img src="assets/images/about/mission.jpg" alt="#" /></figure>
+                <div class="col-md-6">
+                    <div class="about_img1">
+                        <figure><img src="assets/images/about/mission.jpg" width="300px" alt="#" /></figure>
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -221,118 +222,117 @@ guarantees our consistently giving of our best in any project we undertake.</p>
         </div>
     </div>
        </section> -->
-    <div class="testimonial-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <div class="section-header text-center">
-                        <h4><span class="red">Testimonials</span></h4>
-                        <h2>What They Says</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat at animi unde, et, obcaecati eius.</p>
+    
+    <!--====== End Testimonial Section ======-->
+
+
+    <!--====== Start Sponsor Section ======-->
+    <section class="sponsor-area-v1 pt-130 pb-130">
+        <h2 class="card-title text-center "><span class="red">
+        Testimonial </span></h2>
+        <br>
+        <br>
+        <div class="container cards-1">
+            <div class="testimonial-slider-one">
+                <div class="single-sponsor">
+                    <div class="testimonial-item px-3">
+                        <div class="bg-light shadow-sm rounded mb-4 p-4">
+                            <h3 class="fas fa-quote-left text-danger mr-3"></h3>
+                            <p> We align ourselves with enlightened management philosophy,regarding
+                                people as our major assets and working always at maintaining the highest
+                                possible level of communication and interpersonal relations. Our manage-
+                                ment team is caring and future oriented and our planning and programming
+                                soundly organized yet flexible Our Company’s commitment to its ethos
+                                guarantees our consistently giving of our best in any project we undertake.</p>
+                            </p>
+                            <p class="">
+                                Our Company Profile aims to give you a brief insight into our experience,
+                                key personnel and company culture.
+
+                            <div class=" align-items-center">
+
+                                <div class="d-flex align-items-center">
+                                    <div class="person"><img src="assets/images/team/team-1.jpg" alt="#" /></div>
+                                    <div class="">
+                                        <h5>ZAHIRUL ISLAM (TANBIR)</h5>
+                                        <i>Managing Director</i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
-                <br>
-                <div id="carouselExampleIndicators" class="carousel slide testi shadow" data-bs-ride="true">
-                    <div class="carousel-indicators">
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                    </div>
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <div class="content text-center">
-                                <p class="testimonial testi1">
-                                    Our Company Profile aims to give you a brief insight into our experience,
-                                    key personnel and company culture.
-                                    <br>
-                                    <br>
-
-                                <p class="testimonial ">Our Ethos</p>
-                                <br>
-                                <p class="testimonial ">
-                                    We align ourselves with enlightened management philosophy,regarding
+                <div class="single-sponsor">
+                    <div class="testimonial-item px-3">
+                        <div class="testimonial-item px-3">
+                            <div class="bg-light shadow-sm rounded mb-4 p-4">
+                                <h3 class="fas fa-quote-left text-danger mr-3"></h3>
+                                <p> We align ourselves with enlightened management philosophy,regarding
                                     people as our major assets and working always at maintaining the highest
                                     possible level of communication and interpersonal relations. Our manage-
                                     ment team is caring and future oriented and our planning and programming
                                     soundly organized yet flexible Our Company’s commitment to its ethos
                                     guarantees our consistently giving of our best in any project we undertake.</p>
                                 </p>
-                                <div class="person"><img src="assets/images/team/team-1.jpg" alt="#" /></div>
-                                <h5>Zahirul Islam</h5>
-                                <h6>Managing Director</h6>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <div class="content text-center">
-                                <p class="testimonial testi1">
+                                <p class="">
                                     Our Company Profile aims to give you a brief insight into our experience,
                                     key personnel and company culture.
-                                    <br>
-                                    <br>
 
-                                <p class="testimonial">Our Ethos</p>
-                                <br>
-                                <p class="testimonial">
-                                    We align ourselves with enlightened management philosophy,regarding
+                                <div class=" align-items-center">
+
+                                    <div class="d-flex align-items-center">
+                                        <div class="person"><img src="assets/images/team/team-2.jpg" alt="#" /></div>
+                                        <div class="pl-3">
+                                            <h5>Parent Name</h5>
+                                            <i>Profession</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="single-sponsor">
+                <div class="testimonial-item px-3">
+                            <div class="bg-light shadow-sm rounded mb-4 p-4">
+                                <h3 class="fas fa-quote-left text-danger mr-3"></h3>
+                                <p> We align ourselves with enlightened management philosophy,regarding
                                     people as our major assets and working always at maintaining the highest
                                     possible level of communication and interpersonal relations. Our manage-
                                     ment team is caring and future oriented and our planning and programming
                                     soundly organized yet flexible Our Company’s commitment to its ethos
                                     guarantees our consistently giving of our best in any project we undertake.</p>
                                 </p>
-                                <div class="person"><img alt="" src="3.jpg"></div>
-                                <h5>Martin Thomas</h5>
-                                <h6>Graphics Designer</h6>
+                                <p class="">
+                                    Our Company Profile aims to give you a brief insight into our experience,
+                                    key personnel and company culture.
+
+                                <div class=" align-items-center">
+
+                                    <div class="d-flex align-items-center">
+                                        <div class="person"><img src="assets/images/team/team-3.jpg" alt="#" /></div>
+                                        <div class="pl-3">
+                                            <h5>Parent Name</h5>
+                                            <i>Profession</i>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
+
                         </div>
-                        <div class="carousel-item">
-                            <div class="content text-center testi1">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit reiciendis necessitatibus laborum numquam consequuntur possimus magnam expedita ipsam illum voluptatem quia assumenda placeat, at asperiores vitae obcaecati. Reprehenderit nesciunt voluptatem excepturi, libero ipsum tempora perspiciatis.</p>
-                                <div class="person"><img alt="" src="3.jpg"></div>
-                                <h5>Martin Thomas</h5>
-                                <h6>Graphics Designer</h6>
-                            </div>
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev " type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon btn btn-danger" aria-hidden="true"></span>
-                        <span class="visually-hidden ">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                        <span class="carousel-control-next-icon btn btn-danger" aria-hidden="true"></span>
-                        <span class="visually-hidden arrow">Next</span>
-                    </button>
+
                 </div>
+                
+           
+                <!-- <div class="single-sponsor">
+                    <img src="assets/images/sponsor/sponsor-2.png" alt="">
+                </div> -->
             </div>
         </div>
-    </div>
-    </div>
-    <!--====== End Testimonial Section ======-->
-    <!--====== Start Sponsor Section ======-->
-    <!-- <section class="sponsor-area-v1 pt-130 pb-125">
-            <div class="container">
-                <div class="sponsor-slide-one">
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-1.png" alt="">
-                    </div>
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-2.png" alt="">
-                    </div>
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-3.png" alt="">
-                    </div>
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-4.png" alt="">
-                    </div>
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-5.png" alt="">
-                    </div>
-                    <div class="single-sponsor">
-                        <img src="assets/images/sponsor/sponsor-2.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </section> -->
+    </section>
     <!--====== End Sponsor Section ======-->
     <!--====== Start Footer Area ======-->
     <br>
@@ -366,7 +366,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/index.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

@@ -239,7 +239,9 @@
 
     <!--====== Start Sponsor Section ======-->
     <section class="sponsor-area-v1 pt-130 pb-130">
-        <div class="container">
+    <h2 class="text-center ">Our <span class="red "> Clients</span></h2>
+    <br>
+        <div class="container pt-100">
             <div class="sponsor-slide-one">
                 <div class="single-sponsor">
                     <img src="assets/images/sponsor/sponsor-1.png" alt="">
@@ -319,7 +321,7 @@
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/index.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

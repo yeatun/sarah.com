@@ -24,98 +24,83 @@
     <!--====== Style css ======-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/main.css">
 
 </head>
 
 <body>
-    <!--====== Start Preloader ======-->
-    <!-- <div class="preloader">
-            <div class="lds-ellipsis">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div> -->
-    <!--====== End Preloader ======-->
-    <!--====== Search From ======-->
-    <!-- <div class="modal fade" id="search-modal" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <form>
-                        <div class="form_group">
-                        	<input type="text" class="form_control" placeholder="Search here...">
-                        	<button class="search_btn"><i class="fa fa-search"></i></button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div> -->
+   
     <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
-    <br>
-    <!--====== Start breadcrumbs Section ======-->
-    <!-- <section class="breadcrumbs-area bg_cover pt-100 pb-100" style="background-image: url(assets/images/bg/breadcrumbs-bg.png);">
+  
+
+    <!--====== Start Features Section ======-->
+    <section class="features-area-3 light-bg1  ">
+        <section id="gtco-team" class="bg-team section-padding ">
             <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="page-title">
-                            <h1>About Us</h1>
-                        </div>
+                <div class="section-content">
+                    <div class="heading-section text-center">
+                        <span class="subheading">
+                            Specialties
+                        </span>
+                        <h2>
+                            Our <span class="red">Work</span>
+                        </h2>
+                        <!-- <h5 class="">Magic Planet, City Center</h5> -->
                     </div>
-                    <div class="col-lg-6">
-                        <div class="page-breadcrumb">
-                            <ul class="breadcrumb">
-                                <li class="active"><a href="#">Home</a></li>
-                                <li>About Us</li>
-                            </ul>
-                        </div>
+                    <br>
+
+                    <div class="grid">
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-3.jpg)"></div>
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
                     </div>
                 </div>
             </div>
-        </section> -->
-    <!--====== End breadcrumbs Section ======-->
-    <!--====== Start Features Section ======-->
+            <section id="gtco-team" class="bg-team section-padding ">
+            <div class="container">
+                <div class="section-content">
+                    <div class="heading-section text-center">
+                        <span class="subheading">
+                            Specialties
+                        </span>
+                        <h2>
+                            Our <span class="red">Work</span>
+                        </h2>
+                        <!-- <h5 class="">Magic Planet, City Center</h5> -->
+                    </div>
+                    <br>
 
-    <!--====== End Features Section ======-->
-    <!--====== Start Features Section ======-->
-    <section class="features-area-3 light-bg1 pt-120 pb-130">
-    <section id="gtco-team" class="bg-team section-padding">
-    <div class="container">
-        <div class="section-content">
-            <div class="heading-section text-center">
-                <span class="subheading">
-                    Specialties
-                </span>
-                <h2>
-                    Our <span class="red">Work</span>
-                </h2>
-                <!-- <h5 class="">Magic Planet, City Center</h5> -->
+                    <div class="grid">
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
+
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-3.jpg)"></div>
+                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
+                    </div>
+                </div>
             </div>
-            <br>
-          
-            <div class="grid">
-  <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-  
-  <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-  
-  <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-  
-  <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>  
-  <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div></div>
-        </div>
-    </div>
-</section>
-<?php require_once('footer.php'); ?>
-    <style>
-        <?php include 'assets/css/main.css'; ?>
-    </style>
-</section>
-   
+        </section>
+        </section>
+        
+        <?php require_once('footer.php'); ?>
+        <style>
+            <?php include 'assets/css/main.css'; ?>
+        </style>
+    </section>
+
     <!--====== End Sponsor Section ======-->
     <!--====== Start Footer Area ======-->
     <br>
-   
+
     <!--====== End Footer Area ======-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
     </script>
@@ -142,7 +127,7 @@
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/index.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
