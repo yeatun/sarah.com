@@ -136,16 +136,14 @@ strengthen your business success.</p> -->
         <div class="item_container1">
 
           <div class="box1 imgs1">
-            <div class="price">
 
-            </div>
             <div class="img-box1 ">
-              <img src="assets/images/service/manpower.png" alt="">
+              <img class="imgsBox" src="assets/images/service/manpower.png" alt="">
             </div>
-            <div class="name">
-              <h5>
-                Customer Services  Staff Supply
-              </h5>
+            <div class="name text-center">
+              <p>
+                Customer Services Staff Supply
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -153,10 +151,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/manpower.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Machine Operator Staff Supply
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -164,10 +162,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/cleaning.png" alt="">
             </div>
-            <div class="name">
-              <h5>
-                Cash Counter Staff <br> Supply
-              </h5>
+            <div class="name text-center">
+              <p>
+                Cash Counter Staff Supply
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -175,38 +173,32 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/campaign.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Mascot Staff Supply
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
-            <div class="price">
-              <h6>
 
-              </h6>
-            </div>
-            <div class="img-box ">
+            <div class="img-box1 ">
               <img src="assets/images/service/marketing.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Customer Services Supervisor
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
-            <div class="price">
 
-            </div>
             <div class="img-box1 ">
               <img src="assets/images/service/parties.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Special Events Organizing Staff
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -214,10 +206,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/campaign.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 General Labor Supply
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -225,10 +217,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/campaign.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 General Labor Supply
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -236,10 +228,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/campaign.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Cleaning & Sanitizing Staff Supply
-              </h5>
+              </p>
             </div>
           </div>
           <div class="box1 imgs1">
@@ -247,10 +239,10 @@ strengthen your business success.</p> -->
             <div class="img-box1 ">
               <img src="assets/images/service/campaign.png" alt="">
             </div>
-            <div class="name">
-              <h5>
+            <div class="name text-center">
+              <p>
                 Valet Parking Staff Supply
-              </h5>
+              </p>
             </div>
           </div>
         </div>
@@ -291,13 +283,11 @@ strengthen your business success.</p> -->
         </div>
       </div>
       <!-- --------------Events Managment Services-------------- -->
-      <section class=" pt-130 pb-130">
 
-      </section>
       <!-- ------------Event Management</span>  & Manpower------- -->
       <section>
 
-        <div class="container pt-130 pb-130">
+        <div class="container pt-130 ">
           <h1 class="text-center p-4 "><span class="red">
               Other </span> Services </h1>
           <div class="row">
@@ -504,9 +494,7 @@ strengthen your business success.</p> -->
 
 
   </section>
-  <section>
 
-  </section>
   <section class="sponsor-area-v1 pt-130 pb-130">
     <h2 class="card-title text-center "><span class="red">
         WHY</span>US</h2>

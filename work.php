@@ -29,10 +29,10 @@
 </head>
 
 <body>
-   
+
     <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
-  
+
 
     <!--====== Start Features Section ======-->
     <section class="features-area-3 light-bg1  ">
@@ -49,31 +49,9 @@
                         <!-- <h5 class="">Magic Planet, City Center</h5> -->
                     </div>
                     <br>
-
-                    <div class="grid">
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-3.jpg)"></div>
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
-                    </div>
-                </div>
-            </div>
-            <section id="gtco-team" class="bg-team section-padding ">
-            <div class="container">
-                <div class="section-content">
-                    <div class="heading-section text-center">
-                        <span class="subheading">
-                            Specialties
-                        </span>
-                        <h2>
-                            Our <span class="red">Work</span>
-                        </h2>
-                        <!-- <h5 class="">Magic Planet, City Center</h5> -->
-                    </div>
+                    <br>
+                    <h5 style="padding-left: 128px;">Magic Planet, City Center
+                    </h5>
                     <br>
 
                     <div class="grid">
@@ -85,12 +63,342 @@
 
                         <div class="item" style="background-image: url(assets/images/bg/features-bg-3.jpg)"></div>
                         <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
+
                     </div>
                 </div>
             </div>
+
+
+            <!-- end about section -->
+            <section class="portfolio_section layout_padding pt-130">
+                <div class="container ">
+                    <div class="heading_container">
+                        <h5>
+                            Magic Planet, Avenues
+                        </h5>
+
+                    </div>
+                    <br>
+                    <div class="portfolio_container layout_padding2">
+                        <div class="box-1">
+                            <div class="img-box b-1">
+                                <img src="assets/images/bg/features-bg-1.jpg" alt="">
+                                <div class="btn-box">
+                                    <a href="" class="btn-1">
+
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="img-box b-2">
+                                <img src="assets/images/bg/features-bg-3.jpg" alt="">
+                                <div class="btn-box">
+                                    <a href="" class="btn-1">
+
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-2">
+                            <div class="box-2-top">
+                                <div class="img-box b-3">
+                                    <img src="assets/images/bg/features-bg-3.jpg" alt="">
+                                    <div class="btn-box">
+                                        <a href="" class="btn-1">
+
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-2-top2">
+                                <div class="img-box b-4">
+                                    <img src="assets/images/bg/features-bg-5.jpg" alt="">
+                                    <div class="btn-box">
+                                        <a href="" class="btn-1">
+
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="box-2-btm">
+                                <div class="img-box b-5">
+                                    <img src="assets/images/bg/features-bg-1.jpg" alt="">
+                                    <div class="btn-box">
+                                        <a href="" class="btn-1">
+
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="img-box b-6">
+                                    <img src="assets/images/bg/features-bg-1.jpg" alt="">
+                                    <!-- <div class="btn-box">
+                <a href="" class="btn-1">
+
+                </a>
+              </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </section>
+            <!-- achieve section -->
+
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                        Magic Planet, Enma mall
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                    FabyLand, Dana Mall
+
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                    Vox Cinema, BCC
+
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col">
+                            <div class="card ">
+                                <img class="card-img-top cardAlbum" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <!-- <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                    Rotana Hotel
+
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div  class="col-md-auto">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <br>
+                    
+                </div>
+                
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                    Reef Boutique, Hotel
+
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div  class="col-6">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div  class="col-4 ">
+                            <div class="card ">
+                                <img class="card-img-top cardAlbum2" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <br>
+                    
+                </div>
+                
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                    FabyLand, Dana Mall
+
+                    </h5>
+
+                </div>
+                <br>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+
+
         </section>
-        </section>
-        
+
         <?php require_once('footer.php'); ?>
         <style>
             <?php include 'assets/css/main.css'; ?>

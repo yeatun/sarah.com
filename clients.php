@@ -60,7 +60,7 @@
             <div class="item_section2 layout_padding2">
 
                 <div class="container">
-                    <h1 class="text-center pt-30">OUR <span class="red">SERVICES</span></h1>
+                    <h1 class="text-center pt-30">Our <span class="red">Clients</span></h1>
                     <br>
                     <div class="item_container2">
 

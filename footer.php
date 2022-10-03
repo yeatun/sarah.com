@@ -33,7 +33,7 @@
           <div class="footer-logo  mb-30">
                     <a href="index.html" class="brand-logo"><img src="assets/images/logo-2.png" alt=""></a>
                 </div>
-            <p class="text-justify">Sahara Planner Co. W.L.L. is an event management & event manpower supplier company in
+            <p class="text-justify footerText">Sahara Planner Co. W.L.L. is an event management & event manpower supplier company in
 
 Bahrain. We do also manpower supply for hotel, office & factory. We have large number of
 well professional team to handle the job. We do digital marketing & branding for our clients
@@ -72,7 +72,7 @@ sional services to our client.</p>
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text">Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved by 
+            <p class="copyright-text footerText">Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved by 
          <a href="#" class="text-white">HTechSoft</a>.
             </p>
           </div>
