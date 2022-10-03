@@ -340,6 +340,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
     <style>
         <?php include 'assets/css/main.css'; ?>
     </style>
+    
     <!--====== End Footer Area ======-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
     </script>

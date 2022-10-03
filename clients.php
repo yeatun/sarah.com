@@ -242,7 +242,7 @@
 
     <!--====== End Sponsor Section ======-->
     <!--====== Start Footer Area ======-->
-    <br>
+    <a href="#" class="back-to-top"><i class="fas fa-angle-up"></i></a>
 
     <!--====== End Footer Area ======-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js">
@@ -250,7 +250,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js">
     </script>
     <!--====== back-to-top ======-->
-    <a href="#" class="back-to-top"><i class="fas fa-angle-up"></i></a>
+    
     <!--====== Jquery js ======-->
     <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
