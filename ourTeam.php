@@ -70,6 +70,7 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
                                 <h5 class="text-white mb-2">ZAHIRUL ISLAM (TANBIR)</h5>
                                 <p class="text-white font-italic mb-2">Managing Director</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
                                 <!-- <p class="text-white font-italic mb-2">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem</p> -->
                                 <div class="position-relative mb-2">
                                     <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -88,12 +89,15 @@
                 <div class="col-lg-6 p-0 shadow">
                     <div class="row m-0">
                         <div class="col-sm-6 p-0" style="min-height: 300px;">
-                            <img class=" w-10 h-10" src="assets/images/team/team-2.jpg" style="object-fit: cover;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-6.jpg" style="object-fit: cover;">
                         </div>
                         <div class="col-sm-6 p-0 text-center">
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
-                                <h5 class="mb-2 text-white">MOHAMMAD JUMMAN</h5>
+                                <h5 class="mb-2 text-white">SAIFUL ISLAM</h5>
+                               
                                 <p class="text-white font-italic mb-2">Operations Manager</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
+                                
                                
                                 <div class="position-relative mb-2">
                                     <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -110,8 +114,9 @@
                     <div class="row m-0 ">
                         <div class="col-sm-6 p-0 text-center">
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
-                                <h5 class="text-white bmb-2">RICA BALLANO</h5>
-                                <p class="text-white font-italic mb-2">Office Admin</p>
+                                <h5 class="text-white bmb-2">MOHAMMAD JUMMAN</h5>
+                                <p class="text-white font-italic mb-2">Operations Manager</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
                               
                                 <div class="position-relative mb-2">
                                     <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -121,7 +126,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 p-0" style="min-height: 300px;">
-                            <img class=" w-5 h-5" src="assets/images/team/team-3.jpg" style="object-fit: cover;">
+                            <img class=" w-5 h-5" src="assets/images/team/team-2.jpg" style="object-fit: cover;">
                         </div>
                     </div>
                 </div>
@@ -136,6 +141,7 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
                                 <h5 class="mb-2 text-white">VINIA ROMERO ( AISHA )</h5>
                                 <p class="text-white font-italic mb-2">Sales & Marketing Manager</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
                               
                                 <div class="position-relative mb-2">
                                     <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -154,6 +160,7 @@
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
                                 <h5 class="text-white bmb-2">MOHAMMAD KABIR (MUSA)</h5>
                                 <p class="text-white font-italic mb-2">Field operations Supervisor</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
                               
                                 <div class="position-relative mb-2">
                                     <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
@@ -164,6 +171,28 @@
                         </div>
                         <div class="col-sm-6 p-0" style="min-height: 300px;">
                             <img class=" w-5 h-5" src="assets/images/team/team-5.jpg" style="object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-lg-end m-0">
+                <div class="col-lg-6 p-0 shadow">
+                    <div class="row m-0">
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-3.jpg" style="object-fit: cover;">
+                        </div>
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="mb-2 text-white">RICA BALLANO</h5>
+                                <p class="text-white font-italic mb-2">Office Admin</p>
+                                <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span>
+                              
+                                <div class="position-relative mb-2">
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
