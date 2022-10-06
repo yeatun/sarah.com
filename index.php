@@ -132,7 +132,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-1.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content  ">
@@ -143,7 +143,7 @@
                         </div>
                     </div>
                     <div class="col-sm">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-2.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
@@ -154,7 +154,7 @@
                         </div>
                     </div>
                     <div class="col-sm">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-3.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content ">
@@ -166,7 +166,7 @@
                     </div>
 
                     <div class="col-sm pt-4">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-4.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
@@ -177,7 +177,7 @@
                         </div>
                     </div>
                     <div class="col-sm pt-4">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-5.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
@@ -188,7 +188,7 @@
                         </div>
                     </div>
                     <div class="col-sm pt-4">
-                        <div class="card" style="width: 20rem;">
+                        <div class="card" style="width: 25rem;">
                             <img src="assets/images/portfolio/project-6.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
