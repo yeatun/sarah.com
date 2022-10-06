@@ -67,7 +67,7 @@
                         <div class="box2 clients0">
                             
 
-                            <div class="name ">
+                            <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -77,7 +77,7 @@
                         <div class="box2 clients1 ">
 
 
-                            <div class="name " >
+                            <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -89,7 +89,7 @@
                         <div class="box2 clients2">
 
 
-                        <div class="name ">
+                        <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -99,7 +99,7 @@
                         <div class="box2 clients3">
 
 
-                        <div class="name " >
+                        <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -111,7 +111,7 @@
                         <div class="box2 clients4">
                            
 
-                        <div class="name ">
+                        <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -121,7 +121,7 @@
                         <div class="box2 clients5">
                            
 
-                        <div class="name " >
+                        <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -133,7 +133,7 @@
                         <div class="box2 clients6">
                            
 
-                        <div class="name ">
+                        <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -143,7 +143,7 @@
                        <div class="box2 clients7">
                            
 
-                       <div class="name " >
+                       <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -155,7 +155,7 @@
                          <div class="box2 clients8">
                            
 
-                         <div class="name ">
+                         <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -165,7 +165,7 @@
                         <div class="box2 clients9">
                            
 
-                        <div class="name " >
+                        <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -177,7 +177,7 @@
                        <div class="box2 clients10">
                            
 
-                       <div class="name ">
+                       <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -187,7 +187,7 @@
                        <div class="box2 clients11">
                            
 
-                       <div class="name " >
+                       <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -198,7 +198,7 @@
                        </div>
                        <div class="box2 clients12">
                            
-                       <div class="name ">
+                       <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>
@@ -208,7 +208,7 @@
                        <div class="box2 clients13">
                            
 
-                       <div class="name " >
+                       <div class="nameClient " >
                                 
                                 <h5 class="text-white">
                                     magic planet
@@ -220,7 +220,7 @@
                        <div class="box2 clients14">
                            
 
-                       <div class="name ">
+                       <div class="nameClient ">
                                 <h5>
                                     Vox-cinema
                                 </h5>

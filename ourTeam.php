@@ -59,7 +59,7 @@
         <div class="container py-5 " >
             <div class="section-title position-relative text-center">
                 <h6 class="text-uppercase text-danger mb-3" style="letter-spacing: 3px;">Team</h6>
-                <h1 class="font-secondary display-4">Meet The <span class="red">Team</span></h1>
+                <h1 class="text-center pt-30">Meet <span class="red">The Team</span></h1>
                 <br>
                 <br>
             </div>

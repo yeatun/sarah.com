@@ -84,7 +84,7 @@
         <div class="container">
             <div class="row">
                 <div class="offset-lg-6 col-lg-8">
-                    <div class="features-content-box">
+                    <div class="features-content-box textAbout">
                         <div class="section-title section-title-left">
                             <!-- <span class="span">Who We Are</span> -->
                             <h2> <span class="red">Who</span> We Are </h2>
@@ -163,9 +163,9 @@
     <div id="" class="about">
         <div class="">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-5">
                     <div class="about_img1">
-                        <figure><img src="assets/images/about/mission.jpg" width="300px" alt="#" /></figure>
+                        <figure><img src="assets/images/about/mission.jpg" alt="#" /></figure>
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -367,7 +367,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/index.js"></script>
 </body>
 
 </html>

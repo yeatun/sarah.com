@@ -114,8 +114,8 @@
     <div class="container-fluid pt-5">
         <div class="container">
             <div class="text-center pb-2">
-               
-                <h2 class="mb-4">Contact Us For Any Query</h2>
+
+                <h2 class="mb-4"><span class="red">Contact</span> Us </h2>
             </div>
             <div class="row ml-2">
                 <div class="col-lg-7 mb-5  pl-150 ml-200">
@@ -143,12 +143,12 @@
                             </div>
                             <br>
                             <div>
-                                <button class="btn btn-danger py-2 px-4" type="submit" id="sendMessageButton">Send Message</button>
+                                <button class="contactButton py-2 px-4" type="submit" id="sendMessageButton">Send Message</button>
                             </div>
                         </form>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </div>

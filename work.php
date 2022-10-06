@@ -73,68 +73,51 @@
             <section class="portfolio_section layout_padding pt-130">
                 <div class="container ">
                     <div class="heading_container">
-                        <h5>
+                        <h5 style="padding-left: 32px;">
                             Magic Planet, Avenues
                         </h5>
 
                     </div>
                     <br>
-                    <div class="portfolio_container layout_padding2">
-                        <div class="box-1">
-                            <div class="img-box b-1">
-                                <img src="assets/images/bg/features-bg-1.jpg" alt="">
-                                <div class="btn-box">
-                                    <a href="" class="btn-1">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
-                                    </a>
                                 </div>
                             </div>
-                            <div class="img-box b-2">
-                                <img src="assets/images/bg/features-bg-3.jpg" alt="">
-                                <div class="btn-box">
-                                    <a href="" class="btn-1">
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
 
-                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
+
                                 </div>
                             </div>
                         </div>
-                        <div class="box-2">
-                            <div class="box-2-top">
-                                <div class="img-box b-3">
-                                    <img src="assets/images/bg/features-bg-3.jpg" alt="">
-                                    <div class="btn-box">
-                                        <a href="" class="btn-1">
+                        <br>
+                        <div class="row">
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
-                                        </a>
-                                    </div>
                                 </div>
                             </div>
-                            <div class="box-2-top2">
-                                <div class="img-box b-4">
-                                    <img src="assets/images/bg/features-bg-5.jpg" alt="">
-                                    <div class="btn-box">
-                                        <a href="" class="btn-1">
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
 
-                                        </a>
-                                    </div>
                                 </div>
                             </div>
-                            <div class="box-2-btm">
-                                <div class="img-box b-5">
-                                    <img src="assets/images/bg/features-bg-1.jpg" alt="">
-                                    <div class="btn-box">
-                                        <a href="" class="btn-1">
+                            <div class="col-4">
+                                <div class="card">
+                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="img-box b-6">
-                                    <img src="assets/images/bg/features-bg-1.jpg" alt="">
-                                    <!-- <div class="btn-box">
-                <a href="" class="btn-1">
-
-                </a>
-              </div> -->
                                 </div>
                             </div>
                         </div>
@@ -195,7 +178,7 @@
             <section class="pt-130 pb-130">
                 <div style="padding-left: 322px;" class="heading_container">
                     <h5>
-                    FabyLand, Dana Mall
+                        FabyLand, Dana Mall
 
                     </h5>
 
@@ -239,12 +222,47 @@
                         </div>
                     </div>
                 </div>
-                
+
             </section>
             <section class="pt-130 pb-130">
                 <div style="padding-left: 322px;" class="heading_container">
                     <h5>
-                    Vox Cinema, BCC
+                        Vox Cinema, BCC
+
+                    </h5>
+
+                </div>
+                <br>
+
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col align-self-start">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col align-self-center">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                        <div class="col align-self-end">
+                            <div class="card">
+                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+            <section class="pt-130 pb-130">
+                <div style="padding-left: 322px;" class="heading_container">
+                    <h5>
+                        Rotana Hotel
 
                     </h5>
 
@@ -253,56 +271,7 @@
 
                 <div class="container">
                     <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="row">
-                        <div class="col">
-                            <div class="card ">
-                                <img class="card-img-top cardAlbum" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <!-- <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-                
-            </section>
-            <section class="pt-130 pb-130">
-                <div style="padding-left: 322px;" class="heading_container">
-                    <h5>
-                    Rotana Hotel
-
-                    </h5>
-
-                </div>
-                <br>
-
-                <div class="container">
-                    <div class="row">
-                        <div  class="col-md-auto">
+                        <div class="col align-self-center col-6">
                             <div class="card">
                                 <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
@@ -311,14 +280,14 @@
 
                     </div>
                     <br>
-                    
+
                 </div>
-                
+
             </section>
             <section class="pt-130 pb-130">
                 <div style="padding-left: 322px;" class="heading_container">
                     <h5>
-                    Reef Boutique, Hotel
+                        Reef Boutique, Hotel
 
                     </h5>
 
@@ -327,13 +296,13 @@
 
                 <div class="container">
                     <div class="row">
-                        <div  class="col-6">
+                        <div class="col-6">
                             <div class="card">
                                 <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
                             </div>
                         </div>
-                        <div  class="col-4 ">
+                        <div class="col-4 ">
                             <div class="card ">
                                 <img class="card-img-top cardAlbum2" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
 
@@ -342,14 +311,14 @@
 
                     </div>
                     <br>
-                    
+
                 </div>
-                
+
             </section>
             <section class="pt-130 pb-130">
                 <div style="padding-left: 322px;" class="heading_container">
                     <h5>
-                    FabyLand, Dana Mall
+                        FabyLand, Dana Mall
 
                     </h5>
 
@@ -393,7 +362,7 @@
                         </div>
                     </div>
                 </div>
-                
+
             </section>
 
 
@@ -403,7 +372,7 @@
         <style>
             <?php include 'assets/css/main.css'; ?>
         </style>
-        
+
     </section>
 
     <!--====== End Sponsor Section ======-->
@@ -416,7 +385,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js">
     </script>
     <!--====== back-to-top ======-->
-    
+
     <!--====== Jquery js ======-->
     <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
     <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
@@ -436,7 +405,7 @@
     <!--====== waypoints js ======-->
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/index.js"></script>
 </body>
 
 </html>
