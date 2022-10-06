@@ -114,7 +114,7 @@
     <!--====== Start Skill Section ======-->
     <div id="" class="about">
         <div class="">
-            <div class="row">
+            <div class="row" style="padding-Left: 100px;">
                 <div class="col-md-5">
                     <div class="titlepage">
                         <h2>Our <span class="red">Mission</span></h2>
@@ -160,9 +160,9 @@
         </section> -->
     <br>
 
-    <div id="" class="about">
+    <div  id="" class="about">
         <div class="">
-            <div class="row">
+            <div class="row " style="padding-Left: 100px;">
                 <div class="col-md-5">
                     <div class="about_img1">
                         <figure><img src="assets/images/about/mission.jpg" alt="#" /></figure>
