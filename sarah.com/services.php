@@ -34,7 +34,7 @@
   <!--====== Start Features Section ======-->
   <section class=" pt-120 pb-130">
 
-    <div class="container ">
+    <div class="container">
       <h1 class="text-center pt-30">OUR <span class="red">SERVICES</span></h1>
       <br>
       <div class="row">
