@@ -38,7 +38,8 @@
             var windoWidth = window.innerWidth;
             if (windoWidth <= 1199) {
                 navContainer.addClass('breakpoint-on');
-            } else {
+            } 
+            else {
                 navContainer.removeClass('breakpoint-on');
             }
         }

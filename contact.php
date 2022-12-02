@@ -78,9 +78,15 @@
                             </div>
                             <div class="info">
                                 <span>Phone Number</span>
-                                <div style="display: flex;"><h5><a href="tel:+0123456789">+973 382 57613 </a> </h5><span>(Bahrain)</span></div>
-                                <div style="display: flex;"><h5><a href="tel:+0123456789">+966 551 830792 </a> </h5><span>(Saudi Arabia)</span></div>
-                                <div style="display: flex;"><h5><a href="tel:+0123456789">+966 554 681134</a> </h5><span>(Saudi Arabia)</span></div>
+                                <div style="display: flex;">
+                                    <h5><a href="tel:+0123456789">+973 382 57613 </a> </h5><span>(Bahrain)</span>
+                                </div>
+                                <div style="display: flex;">
+                                    <h5><a href="tel:+0123456789">+966 551 830792 </a> </h5><span>(Saudi Arabia)</span>
+                                </div>
+                                <div style="display: flex;">
+                                    <h5><a href="tel:+0123456789">+966 554 681134</a> </h5><span>(Saudi Arabia)</span>
+                                </div>
                             </div>
                         </div>
                         <div class="info-item d-flex">
@@ -90,24 +96,24 @@
                             <div class="info">
                                 <span>Email Address</span>
                                 <h5><a href="mailto:info@saharabh.com">info@saharabh.com</a></h5>
-                                <h5><a href="mailto:info@saharabh.com">  fawziasaad@saharabh.com</a></h5>
-                               
+                                <h5><a href="mailto:info@saharabh.com"> fawziasaad@saharabh.com</a></h5>
+
                             </div>
                         </div>
-      
+
                         <div class="info-item d-flex ">
                             <div class="icon mr-30">
                                 <i class="fal fa-map-marker-alt"></i>
                             </div>
                             <div class="info">
-                                
+
                                 <span>Locations</span>
                                 <h5>Flat 3, Building 106, Road 333, Block 321, <br> Jam Jam Tower, Gudaibiya</h5>
-                            
-                               
-                            </div>  
+
+
+                            </div>
                         </div>
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -127,8 +133,10 @@
                 <h2 class="mb-4"><span class="red">Contact</span> Us </h2>
             </div>
             <div class="row ml-2">
-                <div class="col-lg-7 mb-5  pl-150 ml-200">
-                    <div class="contact-form">
+               
+                <div class="row justify-content-center">
+                <div class="col-lg-6 col-12 col-md-12 mb-5 ">
+                    <div class="contact-form  align-middle">
                         <div id="success"></div>
                         <form name="sentMessage" id="contactForm" novalidate="novalidate">
                             <div class="control-group">
@@ -156,6 +164,7 @@
                             </div>
                         </form>
                     </div>
+                </div>
                 </div>
 
             </div>

@@ -80,23 +80,21 @@
     <!--====== End Features Section ======-->
     <!--====== Start Features Section ======-->
     <section class="features-area-3 light-bg1 pt-120 pb-130">
-        <div id="" class="">
-            <div class="">
-                <div class="row " style="padding-Left: 100px;">
-                    <div class="col-md-5">
-                        <div class="about_img1">
-                            <figure><img src="assets/images/New Sahara Full Logo.png" alt="#" /></figure>
+        <div id="" class="pt-35">
+            <div class="container">
+                <div class="row pt-5 " style="gap: 0px 100px;">
+                    <div class="col-lg-5 col-md-5 col-12 about-card1 ">
+                        <div>
+                            <figure><img class="about_img1 " src="assets/images/New Sahara Full Logo.png" alt="#" /></figure>
                         </div>
                     </div>
-                    <div class="col-md-5" style="padding-left: 100px;padding-top:150px">
+                    <div class="col-lg-6 col-md-5 col-12 about-card1" style="">
                         <div class="titlepage1">
-                            <h3>New SAHARA <span class="red">Contracting W.L.L</span></h3>
+                            <h3><span class="red">New </span> SAHARA Contracting W.L.L.</h3>
                             <br>
-                            <p style="text-align:justify ;">New SAHARA Contracting W.L.L is a manpower supplier company in
-
-                                Bahrain. We do also manpower supply for hotel, office & factory. We have large number of
-                                well professional team to handle the job. We do digital marketing & branding for our clients
-                                needs.
+                            <p style="text-align:justify ;">New Sahara Contracting W.L.L. mainly provides
+                             customer services. All kind of man power supply, event management,
+                              construction and cleaning door to door service are delivered by us.
 
                             </p>
                             <br>
@@ -107,13 +105,13 @@
                 </div>
             </div>
         </div>
-        <br>
-        <div id="" class="" style="padding-top: 200px;">
-            <div class="">
-                <div class="row" style="padding-Left: 100px;">
-                    <div class="col-md-5" style="padding-left: 100px;padding-top:150px">
+        
+        <div id=""  class="about-padding">
+            <div class="container">
+                <div class="row" style="gap: 0px 100px;">
+                    <div class="col-lg-6 col-md-5 col-12 about-card" style="">
                         <div class="titlepage">
-                            <h3>Fawzia <span class="red">Saad Al Qaoud</span></h3>
+                            <h3>Fawzia <span class="red">Saad Al Qaoud Trading Est</span></h3>
                             <br>
                             <p style="text-align:justify ;">Fawzia Saad Al Qaoud Trading Est is mainly a manpower supplier company in Saudi Arabia, Riyadh. We do
                                 also manpower supply for hotel, office & factory. We have large number of well professional team to handle
@@ -122,9 +120,9 @@
                             <!-- <a href="#" class="main-btn">Learn More</a> -->
                         </div>
                     </div>
-                    <div class="col-md-6">
-                        <div class="about_img">
-                            <figure><img style="height: 400px;" src="assets/images/Fawzia_Profile-1.png" alt="#" /></figure>
+                    <div class="col-lg-5 col-md-5 col-12 about-card">
+                        <div>
+                            <figure><img class="about_img" style="width: 800px;padding-left:auto" src="assets/images/Fawzia_Profile-1.png" alt="#" /></figure>
                         </div>
                     </div>
                 </div>
@@ -166,17 +164,18 @@
     <!--====== End Features Section ======-->
     <!--====== Start Skill Section ======-->
     <div id="" class="about">
-        <div class="">
-            <div class="row" style="padding-Left: 100px;">
-                <div class="col-md-5">
-                    <div class="titlepage">
-                        <h2>Our <span class="red">Mission</span></h2>
+        <div class="container">
+            <div class="row" style="gap: 0px 100px;">
+                <div class="col-lg-5 col-md-5 col-12 about-card">
+                    <div class=" ">
+                        <h3 class="mission">Our <span class="red">Mission</span></h3>
+                        <br>
                         <p style="text-align:justify ;">We fabrifcated creative ideas and provide services that tailored
                             towards our client's best interest.</p>
-                        <!-- <a href="#" class="main-btn">Learn More</a> -->
+
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-lg-6 col-md-5 col-12 about-card">
                     <div class="about_img">
                         <figure><img src="assets/images/about/vission.jpg" alt="#" /></figure>
                     </div>
@@ -185,6 +184,29 @@
         </div>
     </div>
     <br>
+    <div id="" class="about">
+        <div class="container">
+            <div class="row" style="gap: 0px 100px;">
+                <div class="col-lg-6 col-md-5 col-12 about-card">
+                    <figure><img class="about_img1" src="assets/images/about/mission.jpg" alt="#" /></figure>
+                </div>
+
+                <div class="col-lg-5 col-md-5 col-12 about-card">
+                    <div class="">
+                        <h3 class="vision">Our <span class="red">Vision</span></h3>
+                        <br>
+                        <p style="text-align:justify ;">Delivering results-oriented campaign that enhance our clients awareness, improve their
+                            sales and foster their growth.
+
+                            Creative is great but tangible results are even better.</p>
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
     <!-- <section class="sponsor-area-v1 pt-180 pb-180">
             <div class="container">
                 <div class="sponsor-slide-one">
@@ -211,30 +233,30 @@
         </section> -->
     <br>
 
-    <div id="" class="about">
+    <!-- <div id="" class="about">
         <div class="">
-            <div class="row " style="padding-Left: 100px;">
-                <div class="col-md-5">
-                    <div class="about_img1">
-                        <figure><img src="assets/images/about/mission.jpg" alt="#" /></figure>
+            <div class="row ">
+                <div class="col-md-4 col-12">
+                    <div>
+                        <figure><img class="about_img1" src="assets/images/about/mission.jpg" alt="#" /></figure>
                     </div>
                 </div>
-                <div class="col-md-5">
-                    <div class="titlepage1">
-                        <h2>Our <span class="red">Vision</span></h2>
+                <div class="col-md-5 col-12 about-card">
+                    <div class="">
+                        <h3 class="vision">Our <span class="red">Vision</span></h3>
                         <br>
                         <p style="text-align:justify ;">Delivering results-oriented campaign that enhance our clients awareness, improve their
                             sales and foster their growth.
 
                             Creative is great but tangible results are even better.</p>
-                        <br>
-                        <!-- <a href="#" class="main-btn">Learn More</a> -->
+
+
                     </div>
                 </div>
 
             </div>
         </div>
-    </div>
+    </div> -->
     <br>
 
     <!--====== End Skill Section ======-->
@@ -279,8 +301,8 @@ guarantees our consistently giving of our best in any project we undertake.</p>
 
     <!--====== Start Sponsor Section ======-->
     <section class="sponsor-area-v1 pt-130 pb-130">
-        <h2 class="card-title text-center "><span class="red">
-                Testimonial </span></h2>
+        <h3 class="card-title text-center "><span class="red">
+                Testimonial </span></h3>
         <br>
         <br>
         <div class="container cards-1">
@@ -289,7 +311,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
                     <div class="testimonial-item px-3">
                         <div class="bg-light shadow-sm rounded mb-4 p-4">
                             <h3 class="fas fa-quote-left text-danger mr-3"></h3>
-                            <p style="text-align:justify ;"> We align ourselves with enlightened management philosophy,regarding
+                            <p class="testimonial-about" style="text-align:justify ;"> We align ourselves with enlightened management philosophy,regarding
                                 people as our major assets and working always at maintaining the highest
                                 possible level of communication and interpersonal relations. Our manage-
                                 ment team is caring and future oriented and our planning and programming
@@ -300,7 +322,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
                                 Our Company Profile aims to give you a brief insight into our experience,
                                 key personnel and company culture.
 
-                            <div class=" align-items-center">
+                            <div class=" ">
 
                                 <div class="d-flex align-items-center">
                                     <div class="person"><img src="assets/images/team/team-1.jpg" alt="#" /></div>

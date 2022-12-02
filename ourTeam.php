@@ -56,17 +56,17 @@
     <br>
     
 <div class="container-fluid py-5 light" id="team">
-        <div class="container py-5 mt-30" >
+        <div class="container py-5 mt-30 team-margin" style="">
             <div class="section-title position-relative text-center">
             <div class="section-title section-title-left">
                             <span class="span">Team</span>
                          
                         </div>
-                <h1 class="text-center pt-30">Meet <span class="red">The Team</span></h1>
+                <h3 class="text-center pt-30">Meet <span class="red">The Team</span></h3>
                 <br>
                 <br>
             </div>
-            <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0 ">
+            <div class="row  justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0 ">
                 <div class="col-lg-6 p-0 shadow">
                     <div class="row m-0">
                         <div class="col-sm-6 p-0 text-center">
@@ -88,6 +88,7 @@
                     </div>
                 </div>
             </div>
+            <br>
             <div class="row justify-content-lg-end m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
                 <div class="col-lg-6 p-0 shadow">
                     <div class="row m-0">
@@ -112,6 +113,7 @@
                     </div>
                 </div>
             </div>
+            <br>
             <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
                 <div class="col-lg-6 p-0 shadow" >
                     <div class="row m-0 ">
@@ -134,6 +136,7 @@
                     </div>
                 </div>
             </div>
+            <br>
             <div class="row justify-content-lg-end m-0">
                 <div class="col-lg-6 p-0 shadow">
                     <div class="row m-0">
@@ -156,7 +159,9 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
+            <br>
+            
+            <div class="row  justify-content-lg-start m-0 mb-4 pb-2 mb-sm-0 pb-sm-0">
                 <div class="col-lg-6 p-0 shadow" >
                     <div class="row m-0 ">
                         <div class="col-sm-6 p-0 text-center">
@@ -178,6 +183,7 @@
                     </div>
                 </div>
             </div>
+            
 
         </div>
     </div>

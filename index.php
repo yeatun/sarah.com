@@ -42,20 +42,20 @@
         <div class="hero-slider-one">
             <div class="">
                 <div class="hero-container ">
-                    <div class="row">
-                        <div class="container">
+                    <div class="">
+                        <div class="">
 
 
 
-                            <div class="row justify-content-center" style="gap: 0px 50px;">
-                                <div class="col-md-5 ">
+                            <div class="row g-3 justify-content-center " style="gap: 0px 50px;">
+                                <div class="col-11 col-md-11 col-lg-5 ">
                                     <div class="box-content">
 
-                                        <div class="service-item logo-bg text-center mb-2 py-5 px-4">
+                                        <div class="service-item logo-bg text-center mb-2 py-5 px-4 max-height: 80%;">
                                             <div>
                                                 <img class="flag" src="assets/images/Flag_of_Bahrain.png" alt="">
                                             </div>
-                                            <img class="logo-img" style="" class="logo-hero" src="assets/images/New Sahara Full Logo.png" alt="">
+                                            <img class="logo-img " style=""  src="assets/images/New Sahara Full Logo.png" alt="">
                                             <br>
 
                                             <div style="padding-top:10px">
@@ -76,10 +76,10 @@
 
                                     </div>
                                 </div>
-                                <div class="col-md-5 ">
+                                <div class="col-11 col-md-11 col-lg-5 ">
                                     <div class="hero-content ">
 
-                                        <div class="service-item  logo-bg text-center mb-2 py-5 px-4">
+                                        <div class="service-item  logo-bg text-center mb-2 py-5 px-4 max-height: 80%;">
                                             <div>
                                                 <img class="flag" style=" float: right;" src="assets/images/Flag_of_Saudi_Arabia.png" alt="">
                                             </div>
@@ -91,7 +91,7 @@
                                                     <li class="col "><b>Manpower Supply</b></li>
                                                     <li class="col list"><b>Customer Services</b></li>
                                                     <div class="w-100"></div>
-                                                    <li class="col list"><b>Waiter & Waitress</b></li>
+                                                    <li class="col list"><b>Waiter &Waitress</b></li>
                                                     <li class="col list"><b>House Keeping</b></li>
 
                                                 </ul>
@@ -289,7 +289,7 @@
     <!--====== Start Sponsor Section ======-->
     <section class="sponsor-area-v1 pt-130 pb-130">
         <section class="sponsor-area-v1 pt-130 pb-130">
-        <h2 class="text-center ">Our <span class="red "> Clients</span></h2>
+        <h3 class="text-center ">Our <span class="red "> Clients</span></h3>
             <br>
             <br>
             <div class="container cards-1">

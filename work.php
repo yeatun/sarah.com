@@ -37,37 +37,35 @@
     <!--====== Start Features Section ======-->
     <section class="features-area-3 light-bg1  ">
         <section id="gtco-team" class="bg-team section-padding ">
-            <div class="container">
+            <div class="container  py-5 work-padding ">
                 <div class="section-content">
                     <div class="heading-section text-center">
-                        <span class="subheading">
-                            Specialties
-                        </span>
-                        <h2>
+
+                        <h3>
                             Our <span class="red">Work</span>
-                        </h2>
+                        </h3>
                         <!-- <h5 class="">Magic Planet, City Center</h5> -->
                     </div>
                     <br>
                     <br>
-                    <h4 style="text-align:center "><span class="red">  Magic Planet</span>, City Center 
+                    <h4 style="text-align:center "><span class="red"> Magic Planet</span>, City Center
                     </h4>
                     <br>
 
                     <div class="">
 
                         <div class="row justify-content-between">
-                            <div class="col-6">
-                                <img style="height:600px;" src="assets/images/magic-planet1.png" alt="">
+                            <div class="col-12 col-md-12 col-lg-6">
+                                <img style="" src="assets/images/magic-planet1.png" alt="">
                             </div>
-                            <div class="col-6">
-                                <img style="height:600px;" src="assets/images/magic-planet2.png" alt="">
+                            <div class="col-12 col-md-12 col-lg-6">
+                                <img style="" src="assets/images/magic-planet2.png" alt="">
                             </div>
                         </div>
                         <br>
                         <div class="row justify-content-center">
-                            <div class="col-8">
-                                <img style="height:600px;" src="assets/images/magic-planet3.png" alt="">
+                            <div class="col-10  col-md-12 col-lg-8">
+                                <img style="" src="assets/images/magic-planet3.png" alt="">
                             </div>
 
                         </div>
@@ -94,14 +92,14 @@
                 <div class="container ">
                     <div class="heading_container">
                         <h4 style="text-align:center">
-                        <span class="red">  Hotel</span> Services
+                            <span class="red"> Hotel</span> Services
                         </h4>
 
                     </div>
                     <br>
                     <div class="row justify-content-center">
-                        <div class="col-8">
-                            <img style="height:700px;" src="assets/images/hotel-service.png" alt="">
+                        <div class="col-10  col-md-12 col-lg-6">
+                            <img style="" src="assets/images/hotel-service.png" alt="">
                         </div>
 
                     </div>
@@ -157,14 +155,14 @@
             <section class="pt-130 pb-130">
                 <div class="heading_container">
                     <h4 style="text-align: center;">
-                    <span class="red">FabyLand</span>
+                        <span class="red">FabyLand</span>
                     </h4>
 
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-6">
-                        <img style="height:700px;" src="assets/images/fabiland.png" alt="">
+                    <div class="col-10  col-md-12 col-lg-5">
+                        <img style="" src="assets/images/fabiland.png" alt="">
                     </div>
 
                 </div>
@@ -207,18 +205,18 @@
                     </div>
                 </div> -->
             </section>
-            <section >
+            <section>
                 <div style="text-align:center" class="">
                     <h4>
-                    <span class="red">  Vox</span> Cinema
+                        <span class="red"> Vox</span> Cinema
 
                     </h4>
 
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-6">
-                        <img style="height:600px;" src="assets/images/box-cinema.png" alt="">
+                    <div class="col-10  col-md-12 col-lg-5">
+                        <img style="" src="assets/images/box-cinema.png" alt="">
                     </div>
 
                 </div>
@@ -265,15 +263,15 @@
             <section class="pt-130 pb-130">
                 <div style="text-align:center" class="heading_container">
                     <h4>
-                    <span class="red"> Rotana</span> Hotel
+                        <span class="red"> Rotana</span> Hotel
 
                     </h4>
 
                 </div>
                 <br>
                 <div class="row justify-content-center">
-                    <div class="col-6">
-                        <img style="height:600px;" src="assets/images/rotana-hotel.png" alt="">
+                    <div class="col-10  col-md-12 col-lg-5">
+                        <img style="" src="assets/images/rotana-hotel.png" alt="">
                     </div>
 
                 </div>
@@ -305,7 +303,7 @@
             <section class="pt-50 pb-130">
                 <div style="text-align:center" class="heading_container">
                     <h4>
-                    <span class="red">Reef Boutique</span>, Hotel
+                        <span class="red">Reef Boutique</span>, Hotel
 
                     </h4>
 
@@ -313,8 +311,8 @@
                 <br>
 
                 <div class="row justify-content-center">
-                    <div class="col-6">
-                        <img style="height:600px;" src="assets/images/reff-boutic.png" alt="">
+                    <div class="col-10  col-md-12 col-lg-5">
+                        <img style="" src="assets/images/reff-boutic.png" alt="">
                     </div>
 
                 </div>
@@ -323,16 +321,16 @@
             <section class="pt-130 pb-130">
                 <div style="text-align:center" class="heading_container">
                     <h4>
-                        
-                    <span class="red"> Fawzia Saad Al Qaoud</span> Trading Est-Staffs
+
+                        <span class="red"> Fawzia Saad Al Qaoud </span> Trading Est-Staffs
                     </h4>
 
                 </div>
                 <br>
 
                 <div class="row justify-content-center">
-                    <div class="col-6">
-                        <img style="height:600px;" src="assets/images/trading-est-staffs.png" alt="">
+                    <div class="col-10  col-md-12 col-lg-5">
+                        <img style="" src="assets/images/trading-est-staffs.png" alt="">
                     </div>
 
                 </div>

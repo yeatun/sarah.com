@@ -35,11 +35,11 @@
   <section class=" pt-120 pb-130">
 
     <div class="container ">
-      <h1 class="text-center pt-30">OUR <span class="red">SERVICES</span></h1>
-      <br>
-      <div class="row">
-        <div class="col-sm">
-          <div class="card" style="width: 25rem;">
+      <h3 class="text-center services-padding" style="">OUR <span class="red">SERVICES</span></h3>
+     
+      <div class="row g-3" style="padding-top: 80px;">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/manpower-supply.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content  ">
@@ -49,8 +49,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm">
-          <div class="card" style="width: 25rem;">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/customer-services.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content">
@@ -60,8 +60,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm">
-          <div class="card" style="width: 25rem;">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/hotel-staff.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content ">
@@ -72,8 +72,8 @@
           </div>
         </div>
 
-        <div class="col-sm pt-4">
-          <div class="card" style="width: 25rem;">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/event-management.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content">
@@ -83,8 +83,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm pt-4">
-          <div class="card" style="width: 25rem;">
+        <div class="col-12 col-md-6 col-lg-4">
+          <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/factory-worker.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content">
@@ -94,8 +94,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm pt-4">
-          <div class="card" style="width: 25rem;">
+        <div class="col-12 col-md-6 col-lg-4">
+        <div class="card" style="">
             <img style="height: 270px;" src="assets/images/service/cleaning-services.jpg" alt="">
             <div class="card-body portfolio-body">
               <div class="portfolio-content">
@@ -103,6 +103,7 @@
                   </a></h4>
                 <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
               </div>
+            </div>
             </div>
           </div>
         </div>
@@ -118,7 +119,7 @@
       <div class="container pt-5 pb-3">
         <div class="text-center mb-5">
           <!-- <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Subjects</h5> -->
-          <h1 class="text-center p-4 "><span class="red">Manpower</span> Staff Supply </h1>
+          <h3 class="text-center p-4 "><span class="red">Manpower</span> Staff Supply </h3>
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 mb-4">
@@ -240,10 +241,10 @@
       <section>
 
         <div class="container pt-130 ">
-          <h1 class="text-center p-4 "><span class="red">
-              Other </span> Services </h1>
-          <div class="row">
-            <div class="col-sm-6 ">
+          <h3 class="text-center p-4 "><span class="red">
+              Other </span> Services </h3>
+          <div class="row g-3">
+            <div class="col-12 col-md-12 col-lg-6 ">
               <div class="card">
                 <img style="height: 375px;" src="assets/images/service/cleaning1.jpg" alt="">
                 <div class="card-body">
@@ -280,7 +281,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6  pb-70">
+            <div class="col-12 col-md-12 col-lg-6 ">
               <div class="card">
                 <img style="height: 375px;" src="assets/images/service/mapower.jpg" alt="">
                 <div class="card-body">
@@ -319,7 +320,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-6  pb-70">
+            <div class="col-12 col-md-12 col-lg-6  ">
               <div class="card">
                 <img style="height: 375px;" src="assets/images/service/promotion.jpg" alt="">
                 <div class="card-body">
@@ -328,7 +329,7 @@
                         Promotional Campaign </span></h5>
                     <p class="card-text ">
                     <div class="container">
-                      <div class="row">
+                      <div class="row g-3">
                         <div class="col-sm-6">
                           <ul class="icon-list mb-50">
                             <li> Field Promotion.</li>
@@ -376,8 +377,8 @@
   </section>
 
   <section class="sponsor-area-v1 pt-130 pb-130">
-    <h2 class="card-title text-center "><span class="red">
-        WHY</span>US</h2>
+    <h3 class="card-title text-center "><span class="red">
+        WHY</span>US</h3>
     <br>
     <br>
     <div class="container cards-1">

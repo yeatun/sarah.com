@@ -31,39 +31,25 @@
     <footer class="site-footer">
       <div class="container">
         <div class="row">
-          <div class=" col-md-4 ">
+          <div class="col-lg-4 col-md-4 col-xs-4 hidden-lg  ">
 
-            <div class="  mb-3 footer-logo footer-img">
+            <div class="  mb-3 footer-img">
               <div class="p-2 "><a href=""><img class="" src="assets/images/New Sahara Full Logo.png" style="" alt=""></a></div>
 
 
             </div>
             <!-- <h6 style="padding-left: 68px;">ABOUT THE COMPANY</h6> -->
             <!--  <a href="index.html"><img src="assets/images/Fawzia_Profile-1.png" style="height: 150px;width:350px;padding-right:150px" alt=""></a> -->
-            <p class=" footerText " style="text-align: justify;"><b>New Sahara Contracting W.L.L.</b> is an event management & event manpower supplier company in Bahrain . We
-              do also manpower supply for hotel, office & factory. We have large number of well professional team to
-              handle the job.We do digital marketing & branding for our clients needs.</p>
-            <br>
+            <p class=" footerText " style="text-align: justify;"><b>New Sahara Contracting W.L.L.</b> mainly provides
+                             customer services. All kind of man power supply, event management,
+                              construction and cleaning door to door service are delivered by us.</p>
+       
 
 
           </div>
 
-          <div class="col-md-4">
-
-            <h6 >Services</h6>
-            <ul class="footer-links ">
-              <li><a href="">Event Management</a></li>
-              <li><a href="">Man Power Supply</a></li>
-              <li><a href="">Cleaning Services</a></li>
-              <li><a href="">Promotion campaign</a></li>
-              <li><a href="">Marketing and branding</a></li>
-              <li><a href="">Exibition and parties</a></li>
-            </ul>
-          </div>
-
-          <div class="col-md-4">
-
-            <div class="d-flex flex-row  mb-3 footer-img">
+          <div class="col-lg-4 col-md-4 col-xs-4 order-sm-3">
+          <div class="d-flex flex-row  mb-3 footer-img">
 
               <div class="p-2 "><a href=""><img class="" src="assets/images/Fawzia_Profile-1.png" style="" alt=""></a></div>
 
@@ -72,10 +58,25 @@
             <!-- <h6 style="padding-left: 68px;">ABOUT THE COMPANY</h6> -->
             <!--  <a href="index.html"><img src="assets/images/Fawzia_Profile-1.png" style="height: 150px;width:350px;padding-right:150px" alt=""></a> -->
 
-            <p class=" footerText" style="text-align: justify;"><b>Fawzia Saad Al Qaoud</b> Trading Est is mainly a manpower supplier company in Saudi Arabia, Riyadh. We do
+            <p class=" footerText" style="text-align: justify;"><b>Fawzia Saad Al Qaoud Tradding Est</b> Trading Est is mainly a manpower supplier company in Saudi Arabia, Riyadh. We do
               also manpower supply for hotel, office & factory. We have large number of well professional team to handle
               the job.We do digital marketing & branding for our clients needs.</p>
             <br>
+           
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-xs-4  ">
+          <h6 >Services</h6>
+            <ul class="footer-links ">
+              <li><a href="">Event Management</a></li>
+              <li><a href="">Man Power Supply</a></li>
+              <li><a href="">Cleaning Services</a></li>
+              <li><a href="">Promotion campaign</a></li>
+              <li><a href="">Marketing and branding</a></li>
+              <li><a href="">Exibition and parties</a></li>
+            </ul>
+
+            
 
           </div>
         </div>

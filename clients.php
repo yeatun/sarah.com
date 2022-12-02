@@ -54,10 +54,10 @@
     <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
     <br>
-    <section class="contact-info-section pt-20 pb-75">
+    <section class="contact-info-section ">
 
-        <section class=" pt-120 pb-130">
-        <h1 class="text-center pt-30">Our <span class="red">Clients</span></h1>
+        <section class="clients-padding">
+        <h3 class="text-center pt-30">Our <span class="red">Clients</span></h3>
             <!-- <div class="item_section2 layout_padding2">
 
                 <div class="container">
@@ -242,7 +242,7 @@
                         </div>
                     </div> -->
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>01</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -250,21 +250,21 @@
                                 <p>Vox-cinema <br> <span>Mazjid Al Futtaim</span></p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>02</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
                                 <p>Magic Planet <br> <span>Mazjid Al Futtaim</span></p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>03</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
                                 <p>Movenplck<br> <span>Hotel</span></p>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>04</h4>
 
@@ -275,7 +275,7 @@
                                 
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>05</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Saudi_Arabia.png" alt="">
@@ -286,7 +286,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>06</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -295,7 +295,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>07</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -304,7 +304,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>08</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Saudi_Arabia.png" alt="">
@@ -314,7 +314,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>09</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -323,7 +323,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>10</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -332,7 +332,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box">
                                 <h4>11</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -341,7 +341,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>12</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -350,7 +350,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>13</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -359,7 +359,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class=" works_box">
                                 <h4>14</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">
@@ -368,7 +368,7 @@
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-4 col-12  col-lg-3">
                             <div id="white_bg" class="works_box1">
                                 <h4>15</h4>
                                 <img style="height:50px ;float: right;padding-top:15px;padding-right:10px" src="assets/images/Flag_of_Bahrain.png" alt="">

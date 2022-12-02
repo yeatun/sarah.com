@@ -1,11 +1,7 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Fidda
-    Description: Portfolio & Digital Agency HTML Template
-    Author: webtend
-    Author URI: https://webtend.net/
-    Version: 1.0
+
 
 -----------------------------------------------------------------------------------
 
@@ -253,7 +249,7 @@ textarea.form_control {
 }
 .light-bg1 {
   /* background: #f7f7f7; */
-  height: 1600px;
+  height: 1100px;
   
 }
 
@@ -486,9 +482,9 @@ button {
  text-align: start;
 }
 .logo-bg{
-  max-width: 750px;
-  height: 630px;
-  width: 750px;
+  max-width: 100%;
+  max-height: 630px;
+  
   border-radius: 20px;
   background-color:WhiteSmoke;
   box-shadow: 1px 0px 5px 0px #807d7d;
@@ -1122,27 +1118,27 @@ header {
     margin-bottom: 60px;
   }
   .logo-bg{
-    height: 370px;
-    width: 310px;
+    /* height: 370px;
+    width: 310px; */
     /* margin-top: 100px; */
     /* padding: 20px; */
   /* margin-top:50px;
   margin-bottom: 50px; */
-  margin: auto;
+  /* margin: auto;
 
-  margin-right: 90px;
+  margin-right: 90px; */
   }
   .logo-img{
-    height: 100px;
-    padding-left:50px
+    /* height: 100px; */
+    /* padding-left:50px */
   }
   .logo-img2{
-    height:120px ; 
-    padding-left:45px
+    /* height:120px ;  */
+    /* padding-left:50px */
   }
-  .flag {
+  /* .flag {
     height: 20px;
-  }
+  } */
   /* .icon-list2 li{
     position: relative;
     padding-left: 10px;
@@ -1152,7 +1148,7 @@ header {
   } */
 
  .icon-list2 li{
-    font-size: 10px;
+    font-size: 15px;
     /* display: flex; */
     /* position: absolute; */
     /* top: 0;
@@ -1184,8 +1180,8 @@ header {
   }
  
   .logo-bg{
-    height: 400px;
-    width: 350px;
+    /* height: 400px;
+    width: 350px; */
     /* margin-top: 100px; */
     /* padding: 20px; */
   /* margin-top:50px;
@@ -1552,55 +1548,180 @@ header {
 }
 
 .about_img {
-  padding: 40px 30px 45px 30px;
-  padding-left: 100px;
+  /* padding: 40px 30px 45px 30px;
+  padding-left: 100px; */
+/* margin: auto;
+width: 800px; */
+}
+.about-card1{
+  margin: auto;
+  /* padding-left: 100px;
+  padding-top:150px */
+}
+.about-card{
+  margin: auto;
+  /* padding-left: 100px;
+  padding-top:150px */
+}
+.about-padding{
+  padding-top: 180px;
+}
+@media (max-width: 480px) {
 
+  .light-bg1 {
+    /* background: #f7f7f7; */
+    height: 1600px;
+    
+  }
+  .about-card1{
+    margin-top: 70px;
+    /* padding-left: 100px;
+    padding-top:150px */
+  }
+  /* .about_img{
+  padding: 80px;
+  } */
+  .about_img1{
+    /* display: block; */
+    /* margin-top: 100px; */
+    /* height: 300px; */
+    width: 500px;
+    
+   
+   
+ /* margin-right: 200px; */
+
+   
+}
+.vission{
+  font-size: 25px;
+}
+.about-padding{
+  padding-top: 100px;
+}
+.about-card  p{
+  /* padding-left: 1px; */
+  /* padding-top:10px; */
+  /* margin: auto; */
+
+font-size: 15px;
+text-align: center;
+margin-left: 20px;
+margin-right: 20px;
+
+
+}
+.about-card1  p{
+  /* padding-left: 1px; */
+  /* padding-top:10px; */
+  /* margin: auto; */
+font-size: 15px;
+text-align: center;
+margin-left: 20px;
+margin-right: 20px;
+
+
+}
+h3 {
+  padding-top: 20px;
+  font-size: 25px;
+  text-align: center;
+}
+h5{
+  font-size: 14px;
+}
+i{
+  font-size: 10px;
+}
+.person{
+ 
+}
+p{
+
+  margin-top: 30px;
+font-size: 15px;
+/* text-align: center; */
+
+
+}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+
+  .light-bg1 {
+    /* background: #f7f7f7; */
+    height: 1300px;
+    
+  }
+  
+.about_img1{
+   
+  margin-top: 120px;
+  /* height: 300px; */
+  /* width: 700px; */
+ 
+
+ 
+}
+.about_img{
+   
+  margin-top: 120px;
+  /* height: 210px; */
+
+  /* margin-right: 20px; */
+  /* width: 700px; */
+ 
+
+ 
+}
+
+ p{
+
+  margin-top: 30px;
+font-size: 15px;
+/* text-align: center; */
+
+
+}
+.mission{
+  font-size: 30px;
+  /* margin-top: 60px; */
+  margin-top: 200px;
+}
+.vision{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 30px;
+  margin-top: 60px;
+  /* text-align: center; */
+}
 }
 .about_img1{
     /* padding: 40px 30px 45px 30px; */
     /* padding-right: 60px; */
-    padding-top: 40px;
+    /* padding-top: 40px;
     padding-bottom: 40px;
-    padding-left: 20px;
+    padding-left: 20px; */
+    /* margin: auto; */
+
 }
 
-.about_img::before {
-  position: absolute;
-  content: "";
-  /* background: url(../images/bg/vg.png); */
-  top: 0;
-  height: 100%;
-  width: 452px;
-  right: 0;
-  border-radius: 5px;
-}
+/* .about_img::before {
 
-.about_img1::before {
-  position: absolute;
-  content: "";
-  /* background: url(../images/bg/vg.png); */
-  top: 0;
-  height: 100%;
-  width: 430px;
-  right: 0;
-  border-radius: 5px;
-}
-.about_img figure {
+} */
+
+
+/* .about_img figure {
   margin: 0;
-}
-.about_img1 figure {
-  margin: 0;
-}
-.about_img figure img {
+} */
+
+/* .about_img figure img {
   width: 100%;
   z-index: 1;
   position: relative;
-}
-.about_img1 figure img {
-  width: 100%;
-  z-index: 1;
-  position: relative;
-}
+} */
+
 
 
 .about_section{
@@ -1994,6 +2115,33 @@ width: 1100px;
 /*---=======================
    05. Start Service  css
 ===========================---*/
+.services-padding{
+  padding-top: 100px;
+}
+.clients-padding{
+  padding-top: 150px;
+}
+.team-margin{
+  margin-top: 120px; 
+}
+.work-padding{
+  margin-top: 50px;
+}
+@media (max-width: 480px) {
+  .services-padding{
+    padding-top: 50px;
+  }
+  .team-margin{
+    margin-top: 60px;
+  }
+  .clients-padding{
+    padding-top: 120px;
+  }
+  .work-padding{
+    margin-top: 60px;
+  }
+
+}
 .cat-item img {
   transition: .5s;
 }
@@ -3600,10 +3748,9 @@ color: white;
 }
 .person {
 	width: 200px;
-	height: 200px;
+	height: 150px;
 	/* display: block; */
-	margin-left: 30px;
-  margin-right: 20px;
+margin: auto;
 	
 	/* overflow: hidden; */
 	/* border: 5px solid #f75023; */
@@ -3611,10 +3758,7 @@ color: white;
 }
 
 
-.person img {
-	width: 100%;
-  padding-right: 100px;
-}
+
 .content h5 {
 	font-weight: 900;
 	margin-top: 15px;
@@ -5051,11 +5195,21 @@ color: white;
 /* .footer-logo{
   background-color: white;
 } */
+/* .container {
+  display:table;
+}
+.div1 {
+  display:table-footer-group;  
+}
+
+.div3 {
+  display:table-header-group;
+} */
 @media (min-width: 768px) and (max-width: 1024px){
+  
   .footer-links
 {
   font-size: small;
- 
   line-height: 1;
   clear: both;
 /* 
