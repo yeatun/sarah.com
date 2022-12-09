@@ -116,27 +116,7 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="single-slider">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="hero-content">
-                                    <span class="span">Promotional Agency</span>
-                                    <h2>Promotional
-                                        Services
-                                        Provider</h2>
-                                        <br>
-                                    <a href="#" class="main-btn">Learn More</a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="hero-img">
-                                    <img src="assets/images/hero/header-2.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+
         </div>
     </section>
     <!--====== End Hero Section ======-->
@@ -262,33 +242,7 @@
     <!--====== End Portfolio Section ======-->
 
 
-    <!--====== Start Video Section ======-->
-
-    <!-- <section class=" yt_cover">
-        <div class="">
-            <div class="">
-                <div class="container">
-                    <div class="row ytsize ">
-                        <div class="  col-lg-6">
-                            <div class="ytText">
-                                <h2>Event Management & Promotions Company</h2>
-                                <br>
-                                <p>We are Bahrain based Designing company.We make unique & hand-crafted website design to help position your brand & build online presence to its full potential. if you are thinking to make professional website then contact us for get best web design experiences.</p>
-                            </div>
-                        </div>
-                        <div class=" col-lg-6">
-                            <div class="">
-                                <iframe width="853" height="480" src="https://www.youtube.com/embed/3JEas1Rd-dg" frameborder="0" allowfullscreen ng-show="showvideo"></iframe>
-                                </iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--====== End Video Section ======-->
-
+  
 
     <!--====== Start Sponsor Section ======-->
     <section class="sponsor-area-v1 pt-130 pb-130">

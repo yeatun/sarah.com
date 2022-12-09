@@ -39,20 +39,6 @@
             </div>
         </div>
     <!--====== End Preloader ======-->
-    <!--====== Search From ======-->
-    <!-- <div class="modal fade" id="search-modal" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <form>
-                        <div class="form_group">
-                        	<input type="text" class="form_control" placeholder="Search here...">
-                        	<button class="search_btn"><i class="fa fa-search"></i></button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div> -->
-    <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
     <br>
     
@@ -191,7 +177,7 @@
                         <div class="col-sm-6 p-0 text-center">
                             <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
                                 <h5 class="mb-2 text-white">CHERLIE PILARES </h5>
-                                <p class="text-white font-italic mb-2">Sales & Marketing Manager</p>
+                                <p class="text-white font-italic mb-2">Sr. Sales & Marketing Manager</p>
                                 <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
                               
                                 <div class="position-relative mb-2">
