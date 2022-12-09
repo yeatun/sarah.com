@@ -9,9 +9,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
@@ -37,7 +37,13 @@
         <?php include 'assets/css/main.css'; ?>
     </style>
     <!--====== Start Hero Section ======-->
-
+    <div class="preloader">
+            <div class="lds-ellipsis">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
     <section class="hero-area-v1">
         <div class="hero-slider-one">
             <div class="">
@@ -142,10 +148,12 @@
             <div class="row">
                 <div class="offset-lg-6 col-lg-8">
                     <div class="features-content-box" style="padding-top:60px ;">
-                        <div class="section-title section-title-left">
+                        <div class="section-title ">
                             <span class="span">Who We Are</span>
-                            <h2>We are casual man power supply company</h2>
+                            
+                            <h3>We are casual man power supply company</h3>
                         </div>
+                        <br>
                         <p style="text-align:justify ;">New Sahara Contracting W.L.L. is manpower supplier company in Bahrain. We do also manpower supply for hotel, office & factory.
                             We have large number of well professional team to handle the job.</p> <br />
 
@@ -173,8 +181,8 @@
                 <div class="col-lg-6">
                     <div class="section-title text-center mb-80">
                         <span class="span">Our Works</span>
-                        <h2>We Have Done Many
-                            Latest Project</h2>
+                        <h3>We Have Done
+                            Many Project</h3>
                     </div>
                 </div>
             </div>
@@ -185,7 +193,7 @@
                             <img class="image-work" src="assets/images/portfolio/project-1.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content  ">
-                                    <h4 class="title portfolio-text"><a href="#">Magic Planet, BCC</a></h4>
+                                    <h4 class="title portfolio-text">Magic Planet, BCC</h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -196,7 +204,7 @@
                             <img class="image-work" src="assets/images/portfolio/project-2.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h4 class="title portfolio-text"><a href="#">Magic Planet, Avenues</a></h4>
+                                    <h4 class="title portfolio-text">Magic Planet, Avenues</h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -207,7 +215,7 @@
                             <img class="image-work" src="assets/images/portfolio/project-3.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content ">
-                                    <h4 class="title portfolio-text"><a href="#">Vox Cinema, BCC & Avenues</a></h4>
+                                    <h4 class="title portfolio-text">Vox Cinema, BCC & Avenues</h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -219,7 +227,7 @@
                             <img class="image-work" class="image-work" src="assets/images/portfolio/project-4.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h4 class="title portfolio-text"><a href="#">Four Season</a></h4>
+                                    <h4 class="title portfolio-text">Four Season</h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -230,7 +238,7 @@
                             <img class="image-work" src="assets/images/portfolio/project-5.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h4 class="title portfolio-text"><a href="#">Reef Boutique Hotel</a></h4>
+                                    <h4 class="title portfolio-text">Reef Boutique Hotel</h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -241,8 +249,8 @@
                             <img class="image-work" src="assets/images/portfolio/project-6.jpg" alt="">
                             <div class="card-body portfolio-body">
                                 <div class="portfolio-content">
-                                    <h4 class="title portfolio-text"><a href="#">Donwntown Rotana
-                                        </a></h4>
+                                    <h4 class="title portfolio-text">Donwntown Rotana
+                                    </h4>
                                     <!-- <p class="cat portfolio-text"><a href="#">Promotional Staff Supply</a></p> -->
                                 </div>
                             </div>
@@ -264,7 +272,6 @@
                         <div class="  col-lg-6">
                             <div class="ytText">
                                 <h2>Event Management & Promotions Company</h2>
-
                                 <br>
                                 <p>We are Bahrain based Designing company.We make unique & hand-crafted website design to help position your brand & build online presence to its full potential. if you are thinking to make professional website then contact us for get best web design experiences.</p>
                             </div>
@@ -273,14 +280,11 @@
                             <div class="">
                                 <iframe width="853" height="480" src="https://www.youtube.com/embed/3JEas1Rd-dg" frameborder="0" allowfullscreen ng-show="showvideo"></iframe>
                                 </iframe>
-
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </section> -->
     <!--====== End Video Section ======-->
@@ -288,7 +292,8 @@
 
     <!--====== Start Sponsor Section ======-->
     <section class="sponsor-area-v1 pt-130 pb-130">
-        <section class="sponsor-area-v1 pt-130 pb-130">
+        
+        <section class="sponsor-area-v1 pb-130">
         <h3 class="text-center ">Our <span class="red "> Clients</span></h3>
             <br>
             <br>
