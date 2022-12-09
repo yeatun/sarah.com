@@ -1,3 +1,4 @@
+<?php include('config.php')?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -34,7 +35,7 @@
                 <div class="row align-items-center">
                     <div class="col-6 col-lg-2">
                         <div class="">
-                            <a class="navbar-brand " href="index" >
+                            <a class="navbar-brand " href="<?=root?>" >
                                 <img src="assets/images/New Sahara Full Logo.png" width="150" height="83" class="d-inline-block align-top" alt="">
                                 <img  src="assets/images/Fawzia_Profile-1.png" width="140" class="d-inline-block align-top" alt="">
                                
@@ -49,7 +50,7 @@
                             </div>
                             <nav class="main-menu ">
                                 <ul id="navLink" class="nav  justify-content-end  ">
-                                    <li><a class="nav-link   <?= ($activePage == 'index') ? 'active' : ''; ?>" href="index">Home</a></li>
+                                    <li><a class="nav-link  <?= ($activePage == 'index') ? 'active' : ''; ?>" href="<?=root?>">Home</a></li>
                                     <li><a class="nav-link  <?= ($activePage == 'about') ? 'active' : ''; ?>" href="about">About</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'services') ? 'active' : ''; ?>" href="services">Service</a></li>
                                     <li><a class="nav-link <?= ($activePage == 'ourTeam') ? 'active' : ''; ?>" href="ourTeam">Team</a></li>
