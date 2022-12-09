@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -27,13 +27,13 @@
 
 <body>
     <!--====== Start Preloader ======-->
-    <!-- <div class="preloader">
+    <div class="preloader">
             <div class="lds-ellipsis">
                 <span></span>
                 <span></span>
                 <span></span>
             </div>
-        </div> -->
+        </div>
     <!--====== End Preloader ======-->
     <!--====== Search From ======-->
 

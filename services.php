@@ -8,9 +8,9 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!--====== Title ======-->
-  <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
-  <!--====== Favicon Icon ======-->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+  <title>New Sahara Contracting W.L.L.</title>
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
   <!--====== Bootstrap css ======-->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <!--====== Iconfont css ======-->
@@ -30,7 +30,13 @@
   <?php require_once('header.php'); ?>
   <br>
 
-
+  <div class="preloader">
+        <div class="lds-ellipsis">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
   <!--====== Start Features Section ======-->
   <section class=" pt-120 pb-130">
 
