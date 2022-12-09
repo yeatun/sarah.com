@@ -34,7 +34,7 @@
                 <div class="row align-items-center">
                     <div class="col-6 col-lg-2">
                         <div class="">
-                            <a class="navbar-brand " href="index.php" >
+                            <a class="navbar-brand " href="index" >
                                 <img src="assets/images/New Sahara Full Logo.png" width="150" height="83" class="d-inline-block align-top" alt="">
                                 <img  src="assets/images/Fawzia_Profile-1.png" width="140" class="d-inline-block align-top" alt="">
                                
@@ -49,13 +49,13 @@
                             </div>
                             <nav class="main-menu ">
                                 <ul id="navLink" class="nav  justify-content-end  ">
-                                    <li><a class="nav-link   <?= ($activePage == 'index') ? 'active' : ''; ?>" href="index.php">Home</a></li>
-                                    <li><a class="nav-link  <?= ($activePage == 'about') ? 'active' : ''; ?>" href="about.php">About</a></li>
-                                    <li><a class="nav-link <?= ($activePage == 'services') ? 'active' : ''; ?>" href="services.php">Service</a></li>
-                                    <li><a class="nav-link <?= ($activePage == 'ourTeam') ? 'active' : ''; ?>" href="ourTeam.php">Team</a></li>
-                                    <li><a class="nav-link <?= ($activePage == 'clients') ? 'active' : ''; ?>" href="clients.php">Clients</a></li>
-                                    <li><a class="nav-link <?= ($activePage == 'work') ? 'active' : ''; ?>" href="work.php">Work</a></li>
-                                    <li><a class="nav-link <?= ($activePage == 'contact') ? 'active' : ''; ?>" href="contact.php">Contact</a></li>
+                                    <li><a class="nav-link   <?= ($activePage == 'index') ? 'active' : ''; ?>" href="index">Home</a></li>
+                                    <li><a class="nav-link  <?= ($activePage == 'about') ? 'active' : ''; ?>" href="about">About</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'services') ? 'active' : ''; ?>" href="services">Service</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'ourTeam') ? 'active' : ''; ?>" href="ourTeam">Team</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'clients') ? 'active' : ''; ?>" href="clients">Clients</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'work') ? 'active' : ''; ?>" href="work">Work</a></li>
+                                    <li><a class="nav-link <?= ($activePage == 'contact') ? 'active' : ''; ?>" href="contact">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
