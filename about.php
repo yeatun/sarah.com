@@ -197,7 +197,7 @@
                                 possible communication and interpersonal relationships Our management team is caring and forward-thinking, and our planning and programming is well-organized while remaining flexible. Our commitment to our company's
                                 ethos ensures that we consistently give our best effort in any project we undertake.</p>
                             </p>
-
+                            <br>
 
                             <div class=" align-items-center">
 
@@ -256,7 +256,7 @@
                                 possible communication and interpersonal relationships Our management team is caring and forward-thinking, and our planning and programming is well-organized while remaining flexible. Our commitment to our company's
                                 ethos ensures that we consistently give our best effort in any project we undertake.</p>
                             </p>
-
+                            <br>
 
                             <div class=" align-items-center">
 

@@ -120,7 +120,7 @@
   </section>
 
   <!--====== start services  ======-->
-  <section class=" pt-120 pb-130 service">
+  <section class="  pb-130 service">
     <div class="container-fluid py-5">
       <div class="container pt-5 pb-3">
         <div class="text-center mb-5">
@@ -131,7 +131,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" style="height: 200px; width:300px" src="assets/images/service/customer-service-staff-supply.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none" >
                 <h4 class="text-white font-weight-medium text-center">Customer Services <br> Staff Supply</h4>
                 <!-- <span>100 Courses</span> -->
               </a>
@@ -140,7 +140,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid" style="height: 200px; width:300px" src="assets/images/service/door-todoor-house-cleaning.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none" >
                 <h4 class="text-white font-weight-medium text-center">Door To Door <br> House Cleaning</h4>
                
               </a>
@@ -149,7 +149,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/cash-counter.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none">
                 <h4 class="text-white font-weight-medium text-center">Cash Counter <br> Staff Supply</h4>
                
               </a>
@@ -158,7 +158,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/customer-service-supervisor.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none">
                 <h4 class="text-white font-weight-medium text-center">Customer Services <br> Supervisor</h4>
             
               </a>
@@ -167,7 +167,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/special-event.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none">
                 <h4 class="text-white font-weight-medium text-center">Special Events <br> Organizing Staff</h4>
               
               </a>
@@ -176,7 +176,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/labor.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none" >
                 <h4 class="text-white font-weight-medium text-center">General Labor <br> Supply</h4>
                 
               </a>
@@ -185,7 +185,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/sanitizing.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none">
                 <h4 class="text-white font-weight-medium text-center">Cleaning & Sanitizing <br> Staff Supply</h4>
                
               </a>
@@ -194,7 +194,7 @@
           <div class="col-lg-3 col-md-6 mb-4">
             <div class="cat-item position-relative overflow-hidden rounded mb-2">
               <img class="img-fluid"style="height: 200px; width:300px" src="assets/images/service/valet-parking.jpg" alt="">
-              <a class="cat-overlay text-white text-decoration-none" href="">
+              <a class="cat-overlay text-white text-decoration-none" >
                 <h4 class="text-white font-weight-medium text-center">Valet Parking <br> Staff Supply</h4>
                
               </a>
@@ -209,8 +209,8 @@
 
      
     <!-- ---------part 2------ -->
-    <section class="sponsor-area-v1 pt-130 pb-130">
-      <div id="part2" class="part2">
+    <section class="sponsor-area-v1 pt-100 pb-130">
+      <div id="" class="">
         <div class="container">
           <div class="row">
             <div class="col-md-5">
