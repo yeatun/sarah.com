@@ -1578,9 +1578,9 @@ width: 800px; */
     /* padding-left: 100px;
     padding-top:150px */
   }
-  /* .about_img{
-  padding: 80px;
-  } */
+  .about_img{
+  padding-top: 20px;
+  }
   .about_img1{
     /* display: block; */
     /* margin-top: 100px; */

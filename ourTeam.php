@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -24,19 +24,20 @@
     <!--====== Style css ======-->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
 
 <body>
     <!--====== Start Preloader ======-->
-    <!-- <div class="preloader">
+    <div class="preloader">
             <div class="lds-ellipsis">
                 <span></span>
                 <span></span>
                 <span></span>
             </div>
-        </div> -->
+        </div>
     <!--====== End Preloader ======-->
     <!--====== Search From ======-->
     <!-- <div class="modal fade" id="search-modal" tabindex="-1" role="dialog">
@@ -58,11 +59,8 @@
 <div class="container-fluid py-5 light" id="team">
         <div class="container py-5 mt-30 team-margin" style="">
             <div class="section-title position-relative text-center">
-            <div class="section-title section-title-left">
-                            <span class="span">Team</span>
-                         
-                        </div>
-                <h3 class="text-center pt-30">Meet <span class="red">The Team</span></h3>
+            
+                <h3 class="text-center ">Meet <span class="red">The Team</span></h3>
                 <br>
                 <br>
             </div>
@@ -76,9 +74,9 @@
                                 <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
                                 <!-- <p class="text-white font-italic mb-2">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem</p> -->
                                 <div class="position-relative mb-2">
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,9 +102,9 @@
                                 
                                
                                 <div class="position-relative mb-2">
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -124,9 +122,9 @@
                                 <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
                               
                                 <div class="position-relative mb-2">
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -150,9 +148,9 @@
                                 <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
                               
                                 <div class="position-relative mb-2">
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -171,14 +169,37 @@
                                 <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
                               
                                 <div class="position-relative mb-2">
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mr-1" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-6 p-0" style="min-height: 300px;">
                             <img class=" w-5 h-5" src="assets/images/team/team-5.jpg" style="object-fit: cover;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row justify-content-lg-end m-0">
+                <div class="col-lg-6 p-0 shadow">
+                    <div class="row m-0">
+                        <div class="col-sm-6 p-0" style="min-height: 300px;">
+                            <img class=" w-10 h-10" src="assets/images/team/team-12.jpg" style="object-fit: cover; ">
+                        </div>
+                        <div class="col-sm-6 p-0 text-center">
+                            <div class="h-100 d-flex flex-column justify-content-center bg-danger p-4">
+                                <h5 class="mb-2 text-white">CHERLIE PILARES </h5>
+                                <p class="text-white font-italic mb-2">Sales & Marketing Manager</p>
+                                <!-- <span class="text-white font-italic mb-2"><i class="fa fa-phone" aria-hidden="true"> </i> 00966554681134</span> -->
+                              
+                                <div class="position-relative mb-2">
+                                <a class="btn btn-outline-light btn-square mr-1" href="https://www.facebook.com/profile.php?id=100087533510587" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                                    <a class="btn btn-outline-light btn-square mr-1"href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

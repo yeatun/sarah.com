@@ -39,10 +39,6 @@
                                 <img  src="assets/images/Fawzia_Profile-1.png" width="140" class="d-inline-block align-top" alt="">
                                
                             </a>
-                            <!-- <div class="brand-logo" style="display: flex;">
-                                <a href=""><img style="height: 90px;" src="assets/images/logo-4.png" alt=""></a>
-                                <a href=""><img style="height: 90px;width:180px;" src="assets/images/logo-5.png" alt=""></a>
-                            </div> -->
                         </div>
                     </div>
                     <div class="col-6 col-lg-10 ">

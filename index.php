@@ -182,7 +182,7 @@
                     <div class="section-title text-center mb-80">
                         <span class="span">Our Works</span>
                         <h3>We Have Done
-                            Many Project</h3>
+                            Many Projects</h3>
                     </div>
                 </div>
             </div>
@@ -452,15 +452,7 @@
     <style>
         <?php include 'assets/css/main.css'; ?>
     </style>
-    <!-- <div class="container">
-                <div class="footer-logo text-center mb-70">
-                    <a href="index.html" class="brand-logo"><img src="assets/images/logo-2.png" alt=""></a>
-                </div>
-               
-                <div class="copyright-text text-center">
-                    <p>Copyright &copy; 2022 <span>Sahara Planner Company</span>. All Rights Reserved. | &nbsp; Developed By <span><a href="onehand.design">One Hand Design</a></span></p>
-                </div>
-            </div> -->
+   
 
     <!--====== End Footer Area ======-->
     <!--====== back-to-top ======-->

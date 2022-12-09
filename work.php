@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -32,7 +32,13 @@
 
     <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
-
+    <div class="preloader">
+        <div class="lds-ellipsis">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
 
     <!--====== Start Features Section ======-->
     <section class="features-area-3 light-bg1  ">
@@ -42,7 +48,7 @@
                     <div class="heading-section text-center">
 
                         <h3>
-                            Our <span class="red">Work</span>
+                            Our <span class="red">Works</span>
                         </h3>
                         <!-- <h5 class="">Magic Planet, City Center</h5> -->
                     </div>
@@ -71,18 +77,6 @@
                         </div>
 
                     </div>
-
-                    <!-- <div class="grid">
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-1.jpg)"></div>
-
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-3.jpg)"></div>
-                        <div class="item" style="background-image: url(assets/images/bg/features-bg-5.jpg)"></div>
-
-                    </div> -->
                 </div>
             </div>
 
@@ -103,49 +97,6 @@
                         </div>
 
                     </div>
-                    <!-- <div class="container">
-                        <div class="row">
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="card">
-                                    <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
 
                 </div>
 
@@ -167,43 +118,6 @@
 
                 </div>
 
-                <!-- <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
             </section>
             <section>
                 <div style="text-align:center" class="">
@@ -221,44 +135,6 @@
 
                 </div>
 
-                <!-- <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-
             </section>
             <section class="pt-130 pb-130">
                 <div style="text-align:center" class="heading_container">
@@ -275,29 +151,6 @@
                     </div>
 
                 </div>
-
-                <!-- <div class="container">
-                    <div class="row">
-                        <div class="col align-self-start">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col align-self-center">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col align-self-end">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
 
             </section>
             <section class="pt-50 pb-130">
@@ -336,57 +189,7 @@
                 </div>
 
             </section>
-            <!-- <section class="pt-130 pb-130">
-                <div style="padding-left: 322px;" class="heading_container">
-                    <h5>
-                        FabyLand, Dana Mall
-
-                    </h5>
-
-                </div>
-                <br>
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <div class="row">
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-1.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="card">
-                                <img class="card-img-top" src="assets/images/bg/features-bg-3.jpg" alt="Card image cap">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </section> -->
-
-
+           
         </section>
 
         <?php require_once('footer.php'); ?>
