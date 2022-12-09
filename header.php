@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -34,7 +34,7 @@
                 <div class="row align-items-center">
                     <div class="col-6 col-lg-2">
                         <div class="">
-                            <a class="navbar-brand" href="#" >
+                            <a class="navbar-brand " href="index.php" >
                                 <img src="assets/images/New Sahara Full Logo.png" width="150" height="83" class="d-inline-block align-top" alt="">
                                 <img  src="assets/images/Fawzia_Profile-1.png" width="140" class="d-inline-block align-top" alt="">
                                
@@ -86,7 +86,7 @@
             });
         }
     </script>
-    <script src="assets/js/index.js"></script>
+    <script src="assets/js/javascript.js"></script>
 </body>
 
 </html>

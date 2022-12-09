@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -79,6 +79,13 @@
 
     <!--====== End Features Section ======-->
     <!--====== Start Features Section ======-->
+    <div class="preloader">
+        <div class="lds-ellipsis">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
     <section class="features-area-3 light-bg1 pt-120 pb-130">
         <div id="" class="pt-35">
             <div class="container">
@@ -93,8 +100,8 @@
                             <h3><span class="red">New </span> SAHARA Contracting W.L.L.</h3>
                             <br>
                             <p style="text-align:justify ;">New Sahara Contracting W.L.L. mainly provides
-                             customer services. All kind of man power supply, event management,
-                              construction and cleaning door to door service are delivered by us.
+                                customer services. All kind of man power supply, event management,
+                                construction and cleaning door to door service are delivered by us.
 
                             </p>
                             <br>
@@ -105,8 +112,8 @@
                 </div>
             </div>
         </div>
-        
-        <div id=""  class="about-padding">
+
+        <div id="" class="about-padding">
             <div class="container">
                 <div class="row" style="gap: 0px 100px;">
                     <div class="col-lg-6 col-md-5 col-12 about-card" style="">
@@ -163,21 +170,24 @@
     </section>
     <!--====== End Features Section ======-->
     <!--====== Start Skill Section ======-->
-    <div id="" class="about">
+    <div id="" style="padding-top: 80px;" class="about">
         <div class="container">
             <div class="row" style="gap: 0px 100px;">
                 <div class="col-lg-5 col-md-5 col-12 about-card">
                     <div class=" ">
                         <h3 class="mission">Our <span class="red">Mission</span></h3>
                         <br>
-                        <p style="text-align:justify ;">We fabrifcated creative ideas and provide services that tailored
-                            towards our client's best interest.</p>
+                        <p style="text-align:justify ;">To provide our clients with
+                            highly skilled candidates
+                            without any hassle
+                            and also to place our candidates in the
+                            best organizations.</p>
 
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-5 col-12 about-card">
                     <div class="about_img">
-                        <figure><img src="assets/images/about/vission.jpg" alt="#" /></figure>
+                        <figure><img style="  border: 2px solid #d00b2b; border-radius: 0px 150px 0px 0px;" src="assets/images/handshake.jpg" alt="#" /></figure>
                     </div>
                 </div>
             </div>
@@ -188,17 +198,17 @@
         <div class="container">
             <div class="row" style="gap: 0px 100px;">
                 <div class="col-lg-6 col-md-5 col-12 about-card">
-                    <figure><img class="about_img1" src="assets/images/about/mission.jpg" alt="#" /></figure>
+                    <figure><img class="about_img1" style="  border: 2px solid #d00b2b; border-radius: 0px 0px 0px 150px;" src="assets/images/vission.jpg" alt="#" /></figure>
                 </div>
 
                 <div class="col-lg-5 col-md-5 col-12 about-card">
                     <div class="">
                         <h3 class="vision">Our <span class="red">Vision</span></h3>
                         <br>
-                        <p style="text-align:justify ;">Delivering results-oriented campaign that enhance our clients awareness, improve their
-                            sales and foster their growth.
-
-                            Creative is great but tangible results are even better.</p>
+                        <p style="text-align:justify ;">Our vision is to become
+                            pioneers in the fields of recruitment, outsourcing
+                            manpower services, cleaning services
+                            and other services.</p>
 
 
                     </div>
@@ -316,110 +326,50 @@ guarantees our consistently giving of our best in any project we undertake.</p>
                                 possible level of communication and interpersonal relations. Our manage-
                                 ment team is caring and future oriented and our planning and programming
                                 soundly organized yet flexible Our Company’s commitment to its ethos
-                                guarantees our consistently giving of our best in any project we undertake.</p>
-                            </p>
-                            <p class="">
-                                Our Company Profile aims to give you a brief insight into our experience,
-                                key personnel and company culture.
+                                guarantees our consistently giving of our best in any project we undertake.Our Company Profile aims to give you a brief insight into our experience,
+                                key personnel and company culture.</p>
+                            
+                           
+                                
 
-                            <div class=" ">
+                            <div class=" align-items-center">
 
                                 <div class="d-flex align-items-center">
-                                    <div class="person"><img src="assets/images/team/team-1.jpg" alt="#" /></div>
-                                    <div class="">
-                                        <h5>ZAHIRUL ISLAM (TANBIR)</h5>
+                                    <div class="person"><img style="height: 70px;" src="assets/images/team/team-1.jpg" alt="#" />
+                                        <br>
+                                        <h6><b>ZAHIRUL ISLAM (TANBIR)</b></h6>
                                         <i>Managing Director</i>
                                     </div>
+                                  
                                 </div>
                             </div>
                         </div>
 
                     </div>
                 </div>
-                <div class="single-sponsor">
-                    <div class="testimonial-item px-3">
-                        <div class="testimonial-item px-3">
-                            <div class="bg-light shadow-sm rounded mb-4 p-4">
-                                <h3 class="fas fa-quote-left text-danger mr-3"></h3>
-                                <p style="text-align:justify ;"> We align ourselves with enlightened management philosophy,regarding
-                                    people as our major assets and working always at maintaining the highest
-                                    possible level of communication and interpersonal relations. Our manage-
-                                    ment team is caring and future oriented and our planning and programming
-                                    soundly organized yet flexible Our Company’s commitment to its ethos
-                                    guarantees our consistently giving of our best in any project we undertake.</p>
-                                </p>
-                                <p class="">
-                                    Our Company Profile aims to give you a brief insight into our experience,
-                                    key personnel and company culture.
 
-                                <div class=" align-items-center">
 
-                                    <div class="d-flex align-items-center">
-                                        <div class="person"><img src="assets/images/team/team-11.jpg" alt="#" /></div>
-                                        <div class="pl-3">
-                                            <h5>KHADIJA AKTER</h5>
-                                            <i>Sales & Marketing Manager</i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-
-                    </div>
-                </div>
                 <div class="single-sponsor">
                     <div class="testimonial-item px-3">
                         <div class="bg-light shadow-sm rounded mb-4 p-4">
                             <h3 class="fas fa-quote-left text-danger mr-3"></h3>
-                            <p style="text-align:justify ;"> We align ourselves with enlightened management philosophy,regarding
-                                people as our major assets and working always at maintaining the highest
-                                possible level of communication and interpersonal relations. Our manage-
-                                ment team is caring and future oriented and our planning and programming
-                                soundly organized yet flexible Our Company’s commitment to its ethos
-                                guarantees our consistently giving of our best in any project we undertake.</p>
+                            <p style="text-align:justify ;"> We adhere to an enlightened management philosophy, regard people as our most valuable asset, and strive to maintain the highest standards at all times.
+
+                                possible communication and interpersonal relationships Our management team is caring and forward-thinking, and our planning and programming is well-organized while remaining flexible. Our commitment to our company's
+                                ethos ensures that we consistently give our best effort in any project we undertake.</p>
                             </p>
-                            <p class="">
-                                Our Company Profile aims to give you a brief insight into our experience,
-                                key personnel and company culture.
+
 
                             <div class=" align-items-center">
 
                                 <div class="d-flex align-items-center">
-                                    <div class="person"><img src="assets/images/team/team-6.jpg" alt="#" /></div>
-                                    <div class="pl-3">
-                                        <h5>SAIFUL ISLAM</h5>
+                                    <div class="person"><img style="height: 70px;" src="assets/images/team/team-6.jpg" alt="#" />
+                                        <br>
+                                        <h6><b>SAIFUL ISLAM</b></h6>
                                         <i>Operations Manager</i>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
+                                    <div class="">
 
-                    </div>
-
-                </div>
-                <div class="single-sponsor">
-                    <div class="testimonial-item px-3">
-                        <div class="bg-light shadow-sm rounded mb-4 p-4">
-                            <h3 class="fas fa-quote-left text-danger mr-3"></h3>
-                            <p style="text-align:justify ;"> We align ourselves with enlightened management philosophy,regarding
-                                people as our major assets and working always at maintaining the highest
-                                possible level of communication and interpersonal relations. Our manage-
-                                ment team is caring and future oriented and our planning and programming
-                                soundly organized yet flexible Our Company’s commitment to its ethos
-                                guarantees our consistently giving of our best in any project we undertake.</p>
-                            </p>
-                            <p class="">
-                                Our Company Profile aims to give you a brief insight into our experience,
-                                key personnel and company culture.
-
-                            <div class=" align-items-center">
-
-                                <div class="d-flex align-items-center">
-                                    <div class="person"><img src="assets/images/team/team-10.jpg" alt="#" /></div>
-                                    <div class="pl-3">
-                                        <h5>SHARMIN AKHTER</h5>
-                                        <i>Office Admin</i>
                                     </div>
                                 </div>
                             </div>
@@ -428,6 +378,7 @@ guarantees our consistently giving of our best in any project we undertake.</p>
                     </div>
 
                 </div>
+
 
 
                 <!-- <div class="single-sponsor">

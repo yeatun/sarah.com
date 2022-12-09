@@ -8,9 +8,9 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!--====== Title ======-->
-  <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+  <!-- <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title> -->
   <!--====== Favicon Icon ======-->
-  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+  <!-- <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png"> -->
   <!--====== Bootstrap css ======-->
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <!--====== Iconfont css ======-->
@@ -23,6 +23,8 @@
   <link rel="stylesheet" href="assets/css/default.css">
   <!--====== Style css ======-->
   <link rel="stylesheet" href="assets/css/main.css" type="text/css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 </head>
 
 <body>
@@ -85,17 +87,18 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text footerText">Copyright &copy; <?php echo date("Y"); ?> All Rights Reserved by
-              <a href="#" class="text-white">HTechSoft</a>.
+            <p class="copyright-text footerText">&copy; <?php echo date("Y"); ?> All Rights Reserved by
+              <a href="http://saharabh.com/" target="_blank" class="text-white">New Sahara</a> | Developed By <a href="https://h-techsoft.com/"target="_blank" class="text-white">HTechSoft</a>.
             </p>
           </div>
 
           <div class="col-md-4 col-sm-6 col-xs-12">
             <ul class="social-icons">
-              <li><a class="facebook" href="#"><i class="fab fa-facebook-square"></i></a></li>
-              <li><a class="twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-              <li><a class="dribbble" href="#"><i class="fab fa-dribbble"></i></a></li>
-              <li><a class="linkedin" href="#"><i class="fab fa-linkedin"></i></a></li>
+              <li><a class="facebook" href="https://www.facebook.com/photo/?fbid=109250378669412" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+              <li><a class="twitter" href="https://www.tiktok.com/@newsaharabh" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
+              <li><a class="dribbble" href="https://instagram.com/newsaharabh" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+              <!-- <li><a class="linkedin" href="#"><i class="fab fa-linkedin"></i></a></li> -->
+              
             </ul>
           </div>
         </div>

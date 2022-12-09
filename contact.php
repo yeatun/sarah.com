@@ -8,9 +8,9 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Sahara Planner Co. W.L.L. | Home | Event Management | Manpower Supply | Creative Agency</title>
+    <title>New Sahara Contracting W.L.L.</title>
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="assets/images/sahara.png" type="image/png">
     <!--====== Bootstrap css ======-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!--====== Iconfont css ======-->
@@ -40,6 +40,13 @@
     </div>
     <!--====== Search From ======-->
     <?php require_once('header.php'); ?>
+    <div class="preloader">
+            <div class="lds-ellipsis">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
     <!--====== Start breadcrumbs Section ======-->
     <!-- <section class="breadcrumbs-area bg_cover pt-100 pb-100" style="background-image: url(assets/images/bg/breadcrumbs-bg.png);">
             <div class="container">
@@ -200,6 +207,5 @@
     <script src="assets/js/jquery.waypoints.min.js"></script>
     <!--====== Main js ======-->
     <script src="assets/js/index.js"></script>
-</body>
 
 </html>
