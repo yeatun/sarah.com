@@ -128,7 +128,7 @@
             <div class="row">
                 <div class="offset-lg-6 col-lg-6 ">
                     <div class="features-content-box" style="padding-top:60px ;">
-                        <div class="section-title ">
+                        <div class="section-title text-center" >
                             <span class="span">Who We Are</span>
                             
                             <h3>We are casual man power supply company</h3>
