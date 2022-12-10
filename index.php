@@ -57,7 +57,7 @@
                                 <div class="col-11 col-md-11 col-lg-5 ">
                                     <div class="box-content">
 
-                                        <div class="service-item logo-bg text-center mb-2 py-5 px-4 max-height: 80%;">
+                                        <div class="service-item logo-bg text-center mb-2 py-5 px-4 max-height: 100%;">
                                             <div>
                                                 <img class="flag" src="assets/images/Flag_of_Bahrain.png" alt="">
                                             </div>
@@ -85,7 +85,7 @@
                                 <div class="col-11 col-md-11 col-lg-5 ">
                                     <div class="hero-content ">
 
-                                        <div class="service-item  logo-bg text-center mb-2 py-5 px-4 max-height: 80%;">
+                                        <div class="service-item  logo-bg text-center mb-2 py-5 px-4 max-height: 100%;">
                                             <div>
                                                 <img class="flag" style=" float: right;" src="assets/images/Flag_of_Saudi_Arabia.png" alt="">
                                             </div>
@@ -126,7 +126,7 @@
         <div class="features-bg bg_cover ml-auto" style="background-image: url(assets/images/bg/features-bg-1.jpg);"></div>
         <div class="container">
             <div class="row">
-                <div class="offset-lg-6 col-lg-8">
+                <div class="offset-lg-6 col-lg-6 ">
                     <div class="features-content-box" style="padding-top:60px ;">
                         <div class="section-title ">
                             <span class="span">Who We Are</span>
